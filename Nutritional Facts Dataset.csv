@@ -1,0 +1,1341 @@
+Food,Grams,Calories,Protein,Fat,Sat.Fat,Fiber,Carbs,Category
+Cows' milk,976,660,32,40,36,0,48,Dairy products
+Milk skim,984,360,36,1,1,0,52,Dairy products
+Buttermilk,246,127,9,5,4,0,13,Dairy products
+"Evaporated, undiluted",252,345,16,20,18,0,24,Dairy products
+Fortified milk,1419,1373,89,42,23,1.4,119,Dairy products
+Powdered milk,103,515,27,28,24,0,39,Dairy products
+"skim, instant",85,290,30,1,1,0,42,Dairy products
+"skim, non-instant",85,290,30,1,1,1,42,Dairy products
+Goats' milk,244,165,8,10,8,0,11,Dairy products
+(1/2 cup ice cream),540,690,24,24,22,0,70,Dairy products
+Cocoa,252,235,8,11,10,0,26,Dairy products
+skim. milk,250,128,18,4,3,1,13,Dairy products
+(cornstarch),248,275,9,10,9,0,40,Dairy products
+Custard,248,285,13,14,11,0,28,Dairy products
+Ice cream,188,300,6,18,16,0,29,Dairy products
+Ice milk,190,275,9,10,9,0,32,Dairy products
+Cream or half-and-half,120,170,4,15,13,0,5,Dairy products
+or whipping,119,430,2,44,27,1,3,Dairy products
+Cheese,225,240,30,11,10,0,6,Dairy products
+uncreamed,225,195,38,1,1,0,6,Dairy products
+Cheddar,17,70,4,6,5,0,1,Dairy products
+"Cheddar, grated cup",56,226,14,19,17,0,1,Dairy products
+Cream cheese,28,105,2,11,10,0,1,Dairy products
+Processed cheese,28,105,7,9,8,0,1,Dairy products
+Roquefort type,28,105,6,9,8,0,1,Dairy products
+Swiss,28,105,7,8,7,0,1,Dairy products
+Eggs raw,100,150,12,12,10,0,1,Dairy products
+Eggs Scrambled or fried,128,220,13,16,14,0,1,Dairy products
+Yolks,34,120,6,10,8,0,1,"Fats, Oils, Shortenings"
+Butter,14,100,1,11,10,0,1,"Fats, Oils, Shortenings"
+Butter,112,113,114,115,116,117,118,"Fats, Oils, Shortenings"
+Butter,112,113,114,115,116,117,118,"Fats, Oils, Shortenings"
+Hydrogenated cooking fat,100,665,0,100,88,0,0,"Fats, Oils, Shortenings"
+Lard,110,992,0,110,92,0,0,"Fats, Oils, Shortenings"
+Margarine,112,806,1,91,76,0,1,"Fats, Oils, Shortenings"
+"Margarine, 2 pat or",14,100,1,11,9,0,1,"Fats, Oils, Shortenings"
+Mayonnaise,15,110,1,12,5,0,1,"Fats, Oils, Shortenings"
+Corn oil,14,125,0,14,5,0,0,"Fats, Oils, Shortenings"
+Olive oil,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+Safflower seed oil,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+French dressing,15,60,1,6,2,0,2,"Fats, Oils, Shortenings"
+Thousand Island sauce,15,75,1,8,3,0,1,"Fats, Oils, Shortenings"
+Salt pork,60,470,3,55,1,0,0,"Meat, Poultry"
+Bacon,16,95,4,8,7,0,1,"Meat, Poultry"
+Beef,85,245,23,16,15,0,0,"Meat, Poultry"
+Hamburger,85,245,21,17,15,0,0,"Meat, Poultry"
+Ground lean,85,185,24,10,9,0,0,"Meat, Poultry"
+Roast beef,85,390,16,36,35,0,0,"Meat, Poultry"
+Steak,85,330,20,27,25,0,0,"Meat, Poultry"
+"Steak, lean, as round",85,220,24,12,11,0,0,"Meat, Poultry"
+Corned beef,85,185,22,10,9,0,0,"Meat, Poultry"
+Corned beef hash canned,85,120,12,8,7,1,6,"Meat, Poultry"
+Corned beef hash Dried,56,115,19,4,4,0,0,"Meat, Poultry"
+Pot-pie,227,480,18,28,25,1,32,"Meat, Poultry"
+Corned beef hash Stew,235,185,15,10,9,1,15,"Meat, Poultry"
+chicken,85,185,23,9,7,0,0,"Meat, Poultry"
+"Fried, breast or leg and thigh chicken",85,245,25,15,11,0,0,"Meat, Poultry"
+Roasted chicken,100,290,25,20,16,0,0,"Meat, Poultry"
+"Chicken livers, fried",100,140,22,14,12,0,2.3,"Meat, Poultry"
+"Duck, domestic",100,370,16,28,0,0,0,"Meat, Poultry"
+"Lamb, chop, broiled",115,480,24,35,33,0,0,"Meat, Poultry"
+Leg roasted,86,314,20,14,14,0,0,"Meat, Poultry"
+"Shoulder, braised",85,285,18,23,21,0,0,"Meat, Poultry"
+"Pork, chop, 1 thick",100,260,16,21,18,0,0,"Meat, Poultry"
+Ham pan-broiled,85,290,16,22,19,0,0,"Meat, Poultry"
+"Ham, as ",57,170,13,13,11,0,0,"Meat, Poultry"
+"Ham, canned, spiced",57,165,8,14,12,0,1,"Meat, Poultry"
+Pork roast,85,310,21,24,21,0,0,"Meat, Poultry"
+Pork sausage,100,475,18,44,40,0,0,"Meat, Poultry"
+Turkey,100,265,27,15,0,0,0,"Meat, Poultry"
+Veal,85,185,23,9,8,0,0,"Meat, Poultry"
+Roast,85,305,13,14,13,0,0,"Meat, Poultry"
+Clams,85,87,12,1,0,0,2,"Fish, Seafood"
+Cod,100,170,28,5,0,0,0,"Fish, Seafood"
+Crab meat,85,90,14,2,0,0,1,"Fish, Seafood"
+Fish sticks fried,112,200,19,10,5,0,8,"Fish, Seafood"
+Flounder,100,200,30,8,0,0,0,"Fish, Seafood"
+Haddock,85,135,16,5,4,0,6,"Fish, Seafood"
+Halibut,100,182,26,8,0,0,0,"Fish, Seafood"
+Herring,100,211,22,13,0,0,0,"Fish, Seafood"
+Lobster,100,92,18,1,0,0,1,"Fish, Seafood"
+Mackerel,85,155,18,9,0,1,0,"Fish, Seafood"
+Oysters,230,231,232,233,234,235,236,"Fish, Seafood"
+Oyster stew,85,125,19,6,1,0,0,"Fish, Seafood"
+Salmon,85,120,17,5,1,0,0,"Fish, Seafood"
+Sardines,85,180,22,9,4,0,0,"Fish, Seafood"
+Scallops,100,104,18,8,0,0,10,"Fish, Seafood"
+Shad,85,170,20,10,0,0,0,"Fish, Seafood"
+Shrimp,85,110,23,1,0,0,0,"Fish, Seafood"
+Swordfish,100,180,27,6,0,0,0,"Fish, Seafood"
+Tuna,85,170,25,7,3,0,0,"Fish, Seafood"
+Artichoke,100,44,2,1,1,2,10,Vegetables
+Asparagus,96,18,1,1,1,0.5,3,Vegetables
+Beans,125,25,1,1,1,0.8,6,Vegetables
+Lima,160,140,8,1,1,3,24,Vegetables
+"Lima, dry, cooked",192,260,16,1,1,2,48,Vegetables
+"Navy, baked with pork",200,250,11,6,6,2,37,Vegetables
+Red kidney,260,230,15,1,0,2.5,42,Vegetables
+Bean sprouts,50,17,1,1,0,0.3,3,Vegetables
+Beet greens,100,27,2,1,0,1.4,6,Vegetables
+Beetroots,165,1,12,0,1,1,0.8,Vegetables
+Broccoli,150,45,5,1,0,1.9,8,Vegetables
+Brussels sprouts,130,60,6,1,0,1.7,12,Vegetables
+Sauerkraut,150,32,1,1,0,1.2,7,Vegetables
+Steamed cabbage,170,40,2,1,0,1.3,9,Vegetables
+Carrots,150,45,1,1,0,0.9,10,Vegetables
+"Raw, grated",110,45,1,1,0,1.2,10,Vegetables
+"Strips, from raw",50,20,1,1,0,0.5,5,Vegetables
+Cauliflower,120,30,3,1,0,1,6,Vegetables
+Celery,100,20,1,1,0,1,4,Vegetables
+Stalk raw,40,5,1,1,0,0.3,1,Vegetables
+Chard steamed,150,30,2,1,0,1.4,7,Vegetables
+Collards,150,51,5,1,0,2,8,Vegetables
+Corn,100,92,3,1,1,0.8,21,Vegetables
+cooked or canned,200,170,5,1,0,1.6,41,Vegetables
+Cucumbers,50,6,1,0,0,0.2,1,Vegetables
+Dandelion greens,180,80,5,1,0,3.2,16,Vegetables
+Eggplant,180,30,2,1,0,1,9,Vegetables
+Endive,57,10,1,1,0,0.6,2,Vegetables
+Kale,110,45,4,1,0,0.9,8,Vegetables
+Kohlrabi,140,40,2,1,0,1.5,9,Vegetables
+"Lambs quarters, steamed",150,48,5,1,0,3.2,7,Vegetables
+Lentils,200,212,15,1,0,2.4,38,Vegetables
+Lettuce,100,14,1,1,0,0.5,2,Vegetables
+Iceberg,100,13,1,1,0,0.5,3,Vegetables
+Mushrooms canned,120,12,2,1,0,1,4,Vegetables
+Mustard greens,140,30,3,1,0,1.2,6,Vegetables
+Okra,100,32,1,1,0,1,7,Vegetables
+Onions,210,80,2,1,0,1.6,18,Vegetables
+"Raw, green",50,22,1,1,0,1,5,Vegetables
+Parsley,50,2,1,1,0,1,1,Vegetables
+Parsnips,155,95,2,1,0,3,22,Vegetables
+Peas,100,66,3,1,0,0.1,13,Vegetables
+"Fresh, steamed peas",100,70,5,1,0,2.2,12,Vegetables
+Frozen peas,100,0,5,1,0,1.8,12,Vegetables
+Split cooked peas,100,115,8,1,0,0.4,21,Vegetables
+heated peas,100,53,3,1,0,1,10,Vegetables
+Peppers canned,38,10,1,1,0,1,2,Vegetables
+"Peppers Raw, green, sweet",100,25,1,1,0,1.4,6,Vegetables
+Peppers with beef and crumbs,150,255,19,9,8,1,24,Vegetables
+"Potatoes, baked",100,100,2,1,0,0.5,22,Vegetables
+French-fried,60,155,1,7,3,0.4,20,Vegetables
+Potatoes Mashed with milk and butter,200,230,4,12,11,0.7,28,Vegetables
+"Potatoes, pan-tried",100,268,4,14,6,0.4,33,Vegetables
+Scalloped with cheese potatoes,100,145,6,8,7,0.4,14,Vegetables
+Steamed potatoes before peeling,100,80,2,1,0,0.4,19,Vegetables
+Potato chips,20,110,1,7,4,1,10,Vegetables
+Radishes,50,10,1,0,0,0.3,2,Vegetables
+Rutabagas,100,32,1,0,0,1.4,8,Vegetables
+Soybeans,200,260,22,11,0,3.2,20,Vegetables
+Spinach,100,26,3,1,0,1,3,Vegetables
+Squash,210,35,1,1,0,0.6,8,Vegetables
+"Winter, mashed",200,95,4,1,0,2.6,23,Vegetables
+Sweet potatoes,110,155,2,1,0,1,36,Vegetables
+Candied,175,235,2,6,5,1.5,80,Vegetables
+Tomatoes,240,50,2,1,0,1,9,Vegetables
+"Raw, 2 by 2 1/2",150,30,1,1,0,0.6,6,Vegetables
+Tomato juice,240,50,2,1,0,0.6,10,Vegetables
+Tomato catsup,17,15,1,1,0,1,4,Vegetables
+Turnip greens,145,45,4,1,0,1.8,8,Vegetables
+"Turnips, steamed",155,40,1,1,0,1.8,9,Vegetables
+"Watercress stems, raw",50,9,1,1,0,0.3,1,Fruits
+Apple juice canned,250,125,1,0,0,0,34,Fruits
+Apple vinegar,100,14,1,0,0,0,3,Fruits
+"Apples, raw",130,70,1,1,0,1,18,Fruits
+Stewed or canned,240,100,1,1,0,2,26,Fruits
+Apricots,250,220,2,1,0,1,57,Fruits
+"Dried, uncooked",75,220,4,1,0,1,50,Fruits
+Fresh,114,55,1,1,0,0.7,14,Fruits
+"Nectar, or juice",250,140,1,1,0,2,36,Fruits
+Avocado,108,185,2,18,12,1.8,6,Fruits
+Banana,150,85,1,1,0,0.9,23,Fruits
+Blackberries,144,85,2,1,0,6.6,19,Fruits
+Blueberries,250,245,1,1,0,2,65,Fruits
+Cantaloupe,380,40,1,1,0,2.2,9,Fruits
+Cherries,257,100,2,1,0,2,26,Fruits
+"Fresh, raw",114,65,1,1,0,0.8,15,Fruits
+Cranberry sauce sweetened,277,530,1,1,0,1.2,142,Fruits
+Dates,178,505,4,1,0,3.6,134,Fruits
+Figs,42,120,2,1,0,1.9,30,Fruits
+"Fresh, raw figs",114,90,2,1,0,1,22,Fruits
+figs Canned with syrup ,115,130,1,1,0,1,32,Fruits
+"Fruit cocktail, canned",256,195,1,1,0,0.5,50,Fruits
+Grapefruit sections,250,170,1,1,0,0.5,44,Fruits
+"Grapefruit, fresh, 5"" diameter",285,50,1,1,1,1,14,Fruits
+Grapefruit juice,250,100,1,1,0,1,24,Fruits
+Grapes,153,70,1,1,0,0.8,16,Fruits
+"European, as Muscat, Tokay",160,100,1,1,0,0.7,26,Fruits
+Grape juice,250,160,1,1,0,1,42,Fruits
+Lemon juice,125,30,1,1,0,1,10,Fruits
+Lemonade concentratefrozen,220,430,1,1,0,1,112,Fruits
+Limeade concentrate frozen,218,405,1,1,0,1,108,Fruits
+Olives large,65,72,1,10,9,0.8,3,Fruits
+OlivesRipe,65,105,1,13,12,1,1,Fruits
+"Oranges 3"" diameter",180,60,2,1,1,1,16,Fruits
+Orange juice,250,112,2,1,0,0.2,25,Fruits
+Frozen ,210,330,2,1,1,0.4,78,Fruits
+Papaya,200,75,1,1,0,1.8,18,Fruits
+Peaches,257,200,1,1,0,1,52,Fruits
+"Fresh, raw",114,35,1,1,0,0.6,10,Fruits
+Pears,255,195,1,1,0,2,50,Fruits
+"Raw, 3 by 2V",182,100,1,1,0,2,25,Fruits
+Persimmons,125,75,1,1,0,2,20,Fruits
+Pineapple,122,95,1,1,0,0.4,26,Fruits
+Pineapple Crushed,260,205,1,1,0,0.7,55,Fruits
+"Raw, diced",140,75,1,1,1,0.6,19,Fruits
+Pineapple juice,250,120,1,1,0,0.2,32,Fruits
+Plums,256,185,1,1,0,0.7,50,Fruits
+"Raw, 2"" diameter",60,30,1,1,0,0.2,7,Fruits
+Prunes,270,300,3,1,0,0.8,81,Fruits
+Prune juice,240,170,1,1,0,0.7,45,Fruits
+Raisins,88,230,2,1,0,0.7,82,Fruits
+Raspberries,100,100,1,1,0,2,25,Fruits
+"Raw, red",100,57,1,1,0,5,14,Fruits
+Rhubarb sweetened,270,385,1,1,0,1.9,98,Fruits
+Strawberries,227,242,1,1,0,1.3,60,Fruits
+Raw,149,54,1,1,0,1.9,12,Fruits
+Tangerines,114,40,1,1,0,1,10,Fruits
+Watermelon,925,120,2,1,0,3.6,29,Fruits
+Biscuits,38,130,3,4,3,1,18,"Breads, cereals, fastfood,grains"
+Bran flakes,25,117,3,1,0,0.1,32,"Breads, cereals, fastfood,grains"
+"Bread, cracked wheat",23,60,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+Rye,23,55,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+"White, 20 slices, or",454,1225,39,15,12,9,229,"Breads, cereals, fastfood,grains"
+Whole-wheat,454,1100,48,14,10,67.5,216,"Breads, cereals, fastfood,grains"
+Whole-wheat,23,55,2,1,0,0.31,11,"Breads, cereals, fastfood,grains"
+Corn bread ground meal,50,100,3,4,2,0.3,15,"Breads, cereals, fastfood,grains"
+Cornflakes,25,110,2,1,0,0.1,25,"Breads, cereals, fastfood,grains"
+Corn grits cooked,242,120,8,1,0,0.2,27,"Breads, cereals, fastfood,grains"
+Corn meal,118,360,9,4,2,1.6,74,"Breads, cereals, fastfood,grains"
+Crackers,14,55,1,1,0,1,10,"Breads, cereals, fastfood,grains"
+"Soda, 2 1/2 square",11,45,1,1,0,1,8,"Breads, cereals, fastfood,grains"
+Farina,238,105,3,1,0,8,22,"Breads, cereals, fastfood,grains"
+Flour,110,460,39,22,0,2.9,33,"Breads, cereals, fastfood,grains"
+Wheat (all purpose),110,400,12,1,0,0.3,84,"Breads, cereals, fastfood,grains"
+Wheat (whole),120,390,13,2,0,2.8,79,"Breads, cereals, fastfood,grains"
+Macaroni,140,155,5,1,0,0.1,32,"Breads, cereals, fastfood,grains"
+Baked with cheese,220,475,18,25,24,1,44,"Breads, cereals, fastfood,grains"
+Muffins,48,135,4,5,4,1,19,"Breads, cereals, fastfood,grains"
+Noodles,160,200,7,2,2,0.1,37,"Breads, cereals, fastfood,grains"
+Oatmeal,236,150,5,3,2,4.6,26,"Breads, cereals, fastfood,grains"
+"Pancakes 4"" diam.",108,250,7,9,0,0.1,28,"Breads, cereals, fastfood,grains"
+"Wheat, pancakes 4"" diam.",108,250,7,9,0,0.1,28,"Breads, cereals, fastfood,grains"
+"Pizza 14"" diam.",75,180,8,6,5,1,23,"Breads, cereals, fastfood,grains"
+Popcorn salted,28,152,3,7,2,0.5,20,"Breads, cereals, fastfood,grains"
+Puffed rice,14,55,1,1,0,1,12,"Breads, cereals, fastfood,grains"
+Puffed wheat presweetened,28,105,1,1,0,0.6,26,"Breads, cereals, fastfood,grains"
+Rice,208,748,15,3,0,1.2,154,"Breads, cereals, fastfood,grains"
+Converted,187,677,14,1,0,0.4,142,"Breads, cereals, fastfood,grains"
+White,191,692,14,1,0,0.3,150,"Breads, cereals, fastfood,grains"
+Rice flakes,30,115,2,1,0,0.1,26,"Breads, cereals, fastfood,grains"
+Rice polish,50,132,6,6,0,1.2,28,"Breads, cereals, fastfood,grains"
+Rolls,50,411,3,12,11,0.1,23,"Breads, cereals, fastfood,grains"
+of refined flour,38,115,3,2,2,1,20,"Breads, cereals, fastfood,grains"
+whole-wheat,40,102,4,1,0,0.1,20,"Breads, cereals, fastfood,grains"
+Spaghetti with meat sauce,250,285,13,10,6,0.5,35,"Breads, cereals, fastfood,grains"
+with tomatoes and cheese,250,210,6,5,3,0.5,36,"Breads, cereals, fastfood,grains"
+Spanish rice,250,217,4,4,0,1.2,40,"Breads, cereals, fastfood,grains"
+Shredded wheat biscuit,28,100,3,1,0,0.7,23,"Breads, cereals, fastfood,grains"
+Waffles,75,240,8,9,1,0.1,30,"Breads, cereals, fastfood,grains"
+Wheat germ,68,245,17,7,3,2.5,34,"Breads, cereals, fastfood,grains"
+Wheat-germ cereal toasted,65,260,20,7,3,2.5,36,"Breads, cereals, fastfood,grains"
+Wheat meal cereal unrefined,30,103,4,1,0,0.7,25,"Breads, cereals, fastfood,grains"
+"Wheat, cooked",200,275,12,1,0,4.4,35,"Breads, cereals, fastfood,grains"
+Bean soups,250,190,8,5,4,0.6,30,Soups
+Beef soup,250,100,6,4,4,0.5,11,Soups
+Bouillon,240,24,5,0,0,0,0,Soups
+chicken soup,250,75,4,2,2,0,10,Soups
+Clam chowder,255,85,5,2,8,0.5,12,Soups
+Cream soups,255,200,7,12,11,1.2,18,Soups
+Noodle,250,115,6,4,3,0.2,13,Soups
+Split-pea soup,250,147,8,3,3,0.5,25,Soups
+Tomato soup,245,175,6,7,6,0.5,22,Soups
+Vegetable,250,80,4,2,2,0,14,Soups
+Apple betty,100,150,1,4,0,0.5,29,"Desserts, sweets"
+Bread pudding,200,374,11,12,11,0.2,56,"Desserts, sweets"
+Cakes,40,110,3,1,0,0,23,"Desserts, sweets"
+Chocolate fudge,120,420,5,14,12,0.3,70,"Desserts, sweets"
+Cupcake,50,160,3,3,2,1,31,"Desserts, sweets"
+Fruit cake,30,105,2,4,3,0.2,17,"Desserts, sweets"
+Gingerbread,55,180,2,7,6,1,28,"Desserts, sweets"
+"Plain, with no icing",55,180,4,5,4,1,31,"Desserts, sweets"
+Sponge cake,40,115,3,2,2,0,22,"Desserts, sweets"
+Candy,25,104,1,3,3,0,19,"Desserts, sweets"
+Chocolate creams,30,130,1,4,4,0,24,"Desserts, sweets"
+Fudge,90,370,1,12,11,0.1,80,"Desserts, sweets"
+Hard candies,28,90,1,0,0,0,28,"Desserts, sweets"
+Marshmallows,30,98,1,0,0,0,23,"Desserts, sweets"
+Milk chocolate,56,290,2,6,6,0.2,44,"Desserts, sweets"
+Chocolate syrup,40,80,1,1,1,0,22,"Desserts, sweets"
+Doughnuts,33,135,2,7,4,1,17,"Desserts, sweets"
+"Gelatin, made with water",239,155,4,1,1,0,36,"Desserts, sweets"
+Honey,42,120,1,0,0,0,30,"Jams, Jellies"
+Ice cream,300,250,0,0,12,10,0,"Desserts, sweets"
+Ices,150,117,0,0,0,0,48,"Desserts, sweets"
+preserves,20,55,0,0,0,1,14,"Jams, Jellies"
+Jellies,20,50,0,0,0,0,13,"Jams, Jellies"
+Molasses,20,45,0,0,0,8,11,"Jams, Jellies"
+Cane Syrup,20,50,0,0,0,0,13,"Jams, Jellies"
+"9"" diam. pie",135,330,3,13,11,0.1,53,"Desserts, sweets"
+Cherry Pie,135,340,3,13,11,0.1,55,"Desserts, sweets"
+Custard,130,265,7,11,10,0,34,"Desserts, sweets"
+Lemon meringue,120,300,4,12,10,0.1,45,"Desserts, sweets"
+Mince,135,340,3,9,8,0.7,62,"Desserts, sweets"
+Pumpkin Pie,130,265,5,12,11,8,34,"Desserts, sweets"
+Puddings Sugar,200,770,0,0,0,0,199,"Desserts, sweets"
+3 teaspoons sugar,12,50,0,0,0,0,12,"Desserts, sweets"
+"Brown, firm-packed, dark sugar",220,815,0,1,0,0,210,"Jams, Jellies"
+Syrup,40,100,0,0,0,0,25,"Jams, Jellies"
+table blends sugar,40,110,0,0,0,0,29,"Jams, Jellies"
+Tapioca cream pudding,250,335,10,10,9,0,42,"Desserts, sweets"
+Almonds,70,425,13,38,28,1.8,13,Seeds and Nuts
+roasted and salted,70,439,13,40,31,1.8,13,Seeds and Nuts
+Brazil nuts,70,457,10,47,31,2,7,Seeds and Nuts
+Cashews,70,392,12,32,28,0.9,20,Seeds and Nuts
+coconut sweetened,50,274,1,20,19,2,26,Seeds and Nuts
+Peanut butter,50,300,12,25,17,0.9,9,Seeds and Nuts
+"Peanut butter, natural",50,284,13,24,10,0.9,8,Seeds and Nuts
+Peanuts,50,290,13,25,16,1.2,9,Seeds and Nuts
+Pecans,52,343,5,35,25,1.1,7,Seeds and Nuts
+Sesame seeds,50,280,9,24,13,3.1,10,Seeds and Nuts
+Sunflower seeds,50,280,12,26,7,1.9,10,Seeds and Nuts
+Walnuts,50,325,7,32,7,1,8,Seeds and Nuts
+Beer,480,228,1,0,0,0,8,"Drinks,Alcohol, Beverages"
+Gin,28,70,0,0,0,0,1,"Drinks,Alcohol, Beverages"
+Wines,120,164,1,0,0,0,9,"Drinks,Alcohol, Beverages"
+Table (12.2% alcohol),120,100,1,0,0,0,5,"Drinks,Alcohol, Beverages"
+Carbonated drinks Artificially sweetened,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages"
+Club soda,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages"
+Cola drinks,346,137,0,0,0,0,38,"Drinks,Alcohol, Beverages"
+Fruit-flavored soda,346,161,0,0,0,0,42,"Drinks,Alcohol, Beverages"
+Ginger ale,346,105,0,0,0,0,28,"Drinks,Alcohol, Beverages"
+Root beer,346,140,0,0,0,0,35,"Drinks,Alcohol, Beverages"
+Coffee,230,3,1,0,0,0,1,"Drinks,Alcohol, Beverages"
+Tea,230,4,0,1,0,0,1,"Drinks,Alcohol, Beverages"
+Cows' milk,976,660,32,40,36,0,48,Dairy products
+Milk skim,984,360,36,1,1,0,52,Dairy products
+Buttermilk,246,127,9,5,4,0,13,Dairy products
+"Evaporated, undiluted",252,345,16,20,18,0,24,Dairy products
+Fortified milk,1419,1373,89,42,23,1.4,119,Dairy products
+Powdered milk,103,515,27,28,24,0,39,Dairy products
+"skim, instant",85,290,30,1,1,0,42,Dairy products
+"skim, non-instant",85,290,30,1,1,1,42,Dairy products
+Goats' milk,244,165,8,10,8,0,11,Dairy products
+(1/2 cup ice cream),540,690,24,24,22,0,70,Dairy products
+Cocoa,252,235,8,11,10,0,26,Dairy products
+skim. milk,250,128,18,4,3,1,13,Dairy products
+(cornstarch),248,275,9,10,9,0,40,Dairy products
+Custard,248,285,13,14,11,0,28,Dairy products
+Ice cream,188,300,6,18,16,0,29,Dairy products
+Ice milk,190,275,9,10,9,0,32,Dairy products
+Cream or half-and-half,120,170,4,15,13,0,5,Dairy products
+or whipping,119,430,2,44,27,1,3,Dairy products
+Cheese,225,240,30,11,10,0,6,Dairy products
+uncreamed,225,195,38,1,1,0,6,Dairy products
+Cheddar,17,70,4,6,5,0,1,Dairy products
+"Cheddar, grated cup",56,226,14,19,17,0,1,Dairy products
+Cream cheese,28,105,2,11,10,0,1,Dairy products
+Processed cheese,28,105,7,9,8,0,1,Dairy products
+Roquefort type,28,105,6,9,8,0,1,Dairy products
+Swiss,28,105,7,8,7,0,1,Dairy products
+Eggs raw,100,150,12,12,10,0,1,Dairy products
+Eggs Scrambled or fried,128,220,13,16,14,0,1,Dairy products
+Yolks,34,120,6,10,8,0,1,"Fats, Oils, Shortenings"
+Butter,14,100,1,11,10,0,1,"Fats, Oils, Shortenings"
+Butter,112,113,114,115,116,117,118,"Fats, Oils, Shortenings"
+Butter,112,113,114,115,116,117,118,"Fats, Oils, Shortenings"
+Hydrogenated cooking fat,100,665,0,100,88,0,0,"Fats, Oils, Shortenings"
+Lard,110,992,0,110,92,0,0,"Fats, Oils, Shortenings"
+Margarine,112,806,1,91,76,0,1,"Fats, Oils, Shortenings"
+"Margarine, 2 pat or",14,100,1,11,9,0,1,"Fats, Oils, Shortenings"
+Mayonnaise,15,110,1,12,5,0,1,"Fats, Oils, Shortenings"
+Corn oil,14,125,0,14,5,0,0,"Fats, Oils, Shortenings"
+Olive oil,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+Safflower seed oil,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+French dressing,15,60,1,6,2,0,2,"Fats, Oils, Shortenings"
+Thousand Island sauce,15,75,1,8,3,0,1,"Fats, Oils, Shortenings"
+Salt pork,60,470,3,55,1,0,0,"Meat, Poultry"
+Bacon,16,95,4,8,7,0,1,"Meat, Poultry"
+Beef,85,245,23,16,15,0,0,"Meat, Poultry"
+Hamburger,85,245,21,17,15,0,0,"Meat, Poultry"
+Ground lean,85,185,24,10,9,0,0,"Meat, Poultry"
+Roast beef,85,390,16,36,35,0,0,"Meat, Poultry"
+Steak,85,330,20,27,25,0,0,"Meat, Poultry"
+"Steak, lean, as round",85,220,24,12,11,0,0,"Meat, Poultry"
+Corned beef,85,185,22,10,9,0,0,"Meat, Poultry"
+Corned beef hash canned,85,120,12,8,7,1,6,"Meat, Poultry"
+Corned beef hash Dried,56,115,19,4,4,0,0,"Meat, Poultry"
+Pot-pie,227,480,18,28,25,1,32,"Meat, Poultry"
+Corned beef hash Stew,235,185,15,10,9,1,15,"Meat, Poultry"
+chicken,85,185,23,9,7,0,0,"Meat, Poultry"
+"Fried, breast or leg and thigh chicken",85,245,25,15,11,0,0,"Meat, Poultry"
+Roasted chicken,100,290,25,20,16,0,0,"Meat, Poultry"
+"Chicken livers, fried",100,140,22,14,12,0,2.3,"Meat, Poultry"
+"Duck, domestic",100,370,16,28,0,0,0,"Meat, Poultry"
+"Lamb, chop, broiled",115,480,24,35,33,0,0,"Meat, Poultry"
+Leg roasted,86,314,20,14,14,0,0,"Meat, Poultry"
+"Shoulder, braised",85,285,18,23,21,0,0,"Meat, Poultry"
+"Pork, chop, 1 thick",100,260,16,21,18,0,0,"Meat, Poultry"
+Ham pan-broiled,85,290,16,22,19,0,0,"Meat, Poultry"
+"Ham, as ",57,170,13,13,11,0,0,"Meat, Poultry"
+"Ham, canned, spiced",57,165,8,14,12,0,1,"Meat, Poultry"
+Pork roast,85,310,21,24,21,0,0,"Meat, Poultry"
+Pork sausage,100,475,18,44,40,0,0,"Meat, Poultry"
+Turkey,100,265,27,15,0,0,0,"Meat, Poultry"
+Veal,85,185,23,9,8,0,0,"Meat, Poultry"
+Roast,85,305,13,14,13,0,0,"Meat, Poultry"
+Clams,85,87,12,1,0,0,2,"Fish, Seafood"
+Cod,100,170,28,5,0,0,0,"Fish, Seafood"
+Crab meat,85,90,14,2,0,0,1,"Fish, Seafood"
+Fish sticks fried,112,200,19,10,5,0,8,"Fish, Seafood"
+Flounder,100,200,30,8,0,0,0,"Fish, Seafood"
+Haddock,85,135,16,5,4,0,6,"Fish, Seafood"
+Halibut,100,182,26,8,0,0,0,"Fish, Seafood"
+Herring,100,211,22,13,0,0,0,"Fish, Seafood"
+Lobster,100,92,18,1,0,0,1,"Fish, Seafood"
+Mackerel,85,155,18,9,0,1,0,"Fish, Seafood"
+Oysters,230,231,232,233,234,235,236,"Fish, Seafood"
+Oyster stew,85,125,19,6,1,0,0,"Fish, Seafood"
+Salmon,85,120,17,5,1,0,0,"Fish, Seafood"
+Sardines,85,180,22,9,4,0,0,"Fish, Seafood"
+Scallops,100,104,18,8,0,0,10,"Fish, Seafood"
+Shad,85,170,20,10,0,0,0,"Fish, Seafood"
+Shrimp,85,110,23,1,0,0,0,"Fish, Seafood"
+Swordfish,100,180,27,6,0,0,0,"Fish, Seafood"
+Tuna,85,170,25,7,3,0,0,"Fish, Seafood"
+Artichoke,100,44,2,1,1,2,10,Vegetables
+Asparagus,96,18,1,1,1,0.5,3,Vegetables
+Beans,125,25,1,1,1,0.8,6,Vegetables
+Lima,160,140,8,1,1,3,24,Vegetables
+"Lima, dry, cooked",192,260,16,1,1,2,48,Vegetables
+"Navy, baked with pork",200,250,11,6,6,2,37,Vegetables
+Red kidney,260,230,15,1,0,2.5,42,Vegetables
+Bean sprouts,50,17,1,1,0,0.3,3,Vegetables
+Beet greens,100,27,2,1,0,1.4,6,Vegetables
+Beetroots,165,1,12,0,1,1,0.8,Vegetables
+Broccoli,150,45,5,1,0,1.9,8,Vegetables
+Brussels sprouts,130,60,6,1,0,1.7,12,Vegetables
+Sauerkraut,150,32,1,1,0,1.2,7,Vegetables
+Steamed cabbage,170,40,2,1,0,1.3,9,Vegetables
+Carrots,150,45,1,1,0,0.9,10,Vegetables
+"Raw, grated",110,45,1,1,0,1.2,10,Vegetables
+"Strips, from raw",50,20,1,1,0,0.5,5,Vegetables
+Cauliflower,120,30,3,1,0,1,6,Vegetables
+Celery,100,20,1,1,0,1,4,Vegetables
+Stalk raw,40,5,1,1,0,0.3,1,Vegetables
+Chard steamed,150,30,2,1,0,1.4,7,Vegetables
+Collards,150,51,5,1,0,2,8,Vegetables
+Corn,100,92,3,1,1,0.8,21,Vegetables
+cooked or canned,200,170,5,1,0,1.6,41,Vegetables
+Cucumbers,50,6,1,0,0,0.2,1,Vegetables
+Dandelion greens,180,80,5,1,0,3.2,16,Vegetables
+Eggplant,180,30,2,1,0,1,9,Vegetables
+Endive,57,10,1,1,0,0.6,2,Vegetables
+Kale,110,45,4,1,0,0.9,8,Vegetables
+Kohlrabi,140,40,2,1,0,1.5,9,Vegetables
+"Lambs quarters, steamed",150,48,5,1,0,3.2,7,Vegetables
+Lentils,200,212,15,1,0,2.4,38,Vegetables
+Lettuce,100,14,1,1,0,0.5,2,Vegetables
+Iceberg,100,13,1,1,0,0.5,3,Vegetables
+Mushrooms canned,120,12,2,1,0,1,4,Vegetables
+Mustard greens,140,30,3,1,0,1.2,6,Vegetables
+Okra,100,32,1,1,0,1,7,Vegetables
+Onions,210,80,2,1,0,1.6,18,Vegetables
+"Raw, green",50,22,1,1,0,1,5,Vegetables
+Parsley,50,2,1,1,0,1,1,Vegetables
+Parsnips,155,95,2,1,0,3,22,Vegetables
+Peas,100,66,3,1,0,0.1,13,Vegetables
+"Fresh, steamed peas",100,70,5,1,0,2.2,12,Vegetables
+Frozen peas,100,0,5,1,0,1.8,12,Vegetables
+Split cooked peas,100,115,8,1,0,0.4,21,Vegetables
+heated peas,100,53,3,1,0,1,10,Vegetables
+Peppers canned,38,10,1,1,0,1,2,Vegetables
+"Peppers Raw, green, sweet",100,25,1,1,0,1.4,6,Vegetables
+Peppers with beef and crumbs,150,255,19,9,8,1,24,Vegetables
+"Potatoes, baked",100,100,2,1,0,0.5,22,Vegetables
+French-fried,60,155,1,7,3,0.4,20,Vegetables
+Potatoes Mashed with milk and butter,200,230,4,12,11,0.7,28,Vegetables
+"Potatoes, pan-tried",100,268,4,14,6,0.4,33,Vegetables
+Scalloped with cheese potatoes,100,145,6,8,7,0.4,14,Vegetables
+Steamed potatoes before peeling,100,80,2,1,0,0.4,19,Vegetables
+Potato chips,20,110,1,7,4,1,10,Vegetables
+Radishes,50,10,1,0,0,0.3,2,Vegetables
+Rutabagas,100,32,1,0,0,1.4,8,Vegetables
+Soybeans,200,260,22,11,0,3.2,20,Vegetables
+Spinach,100,26,3,1,0,1,3,Vegetables
+Squash,210,35,1,1,0,0.6,8,Vegetables
+"Winter, mashed",200,95,4,1,0,2.6,23,Vegetables
+Sweet potatoes,110,155,2,1,0,1,36,Vegetables
+Candied,175,235,2,6,5,1.5,80,Vegetables
+Tomatoes,240,50,2,1,0,1,9,Vegetables
+"Raw, 2 by 2 1/2",150,30,1,1,0,0.6,6,Vegetables
+Tomato juice,240,50,2,1,0,0.6,10,Vegetables
+Tomato catsup,17,15,1,1,0,1,4,Vegetables
+Turnip greens,145,45,4,1,0,1.8,8,Vegetables
+"Turnips, steamed",155,40,1,1,0,1.8,9,Vegetables
+"Watercress stems, raw",50,9,1,1,0,0.3,1,Fruits
+Apple juice canned,250,125,1,0,0,0,34,Fruits
+Apple vinegar,100,14,1,0,0,0,3,Fruits
+"Apples, raw",130,70,1,1,0,1,18,Fruits
+Stewed or canned,240,100,1,1,0,2,26,Fruits
+Apricots,250,220,2,1,0,1,57,Fruits
+"Dried, uncooked",75,220,4,1,0,1,50,Fruits
+Fresh,114,55,1,1,0,0.7,14,Fruits
+"Nectar, or juice",250,140,1,1,0,2,36,Fruits
+Avocado,108,185,2,18,12,1.8,6,Fruits
+Banana,150,85,1,1,0,0.9,23,Fruits
+Blackberries,144,85,2,1,0,6.6,19,Fruits
+Blueberries,250,245,1,1,0,2,65,Fruits
+Cantaloupe,380,40,1,1,0,2.2,9,Fruits
+Cherries,257,100,2,1,0,2,26,Fruits
+"Fresh, raw",114,65,1,1,0,0.8,15,Fruits
+Cranberry sauce sweetened,277,530,1,1,0,1.2,142,Fruits
+Dates,178,505,4,1,0,3.6,134,Fruits
+Figs,42,120,2,1,0,1.9,30,Fruits
+"Fresh, raw figs",114,90,2,1,0,1,22,Fruits
+figs Canned with syrup ,115,130,1,1,0,1,32,Fruits
+"Fruit cocktail, canned",256,195,1,1,0,0.5,50,Fruits
+Grapefruit sections,250,170,1,1,0,0.5,44,Fruits
+"Grapefruit, fresh, 5"" diameter",285,50,1,1,1,1,14,Fruits
+Grapefruit juice,250,100,1,1,0,1,24,Fruits
+Grapes,153,70,1,1,0,0.8,16,Fruits
+"European, as Muscat, Tokay",160,100,1,1,0,0.7,26,Fruits
+Grape juice,250,160,1,1,0,1,42,Fruits
+Lemon juice,125,30,1,1,0,1,10,Fruits
+Lemonade concentratefrozen,220,430,1,1,0,1,112,Fruits
+Limeade concentrate frozen,218,405,1,1,0,1,108,Fruits
+Olives large,65,72,1,10,9,0.8,3,Fruits
+OlivesRipe,65,105,1,13,12,1,1,Fruits
+"Oranges 3"" diameter",180,60,2,1,1,1,16,Fruits
+Orange juice,250,112,2,1,0,0.2,25,Fruits
+Frozen ,210,330,2,1,1,0.4,78,Fruits
+Papaya,200,75,1,1,0,1.8,18,Fruits
+Peaches,257,200,1,1,0,1,52,Fruits
+"Fresh, raw",114,35,1,1,0,0.6,10,Fruits
+Pears,255,195,1,1,0,2,50,Fruits
+"Raw, 3 by 2V",182,100,1,1,0,2,25,Fruits
+Persimmons,125,75,1,1,0,2,20,Fruits
+Pineapple,122,95,1,1,0,0.4,26,Fruits
+Pineapple Crushed,260,205,1,1,0,0.7,55,Fruits
+"Raw, diced",140,75,1,1,1,0.6,19,Fruits
+Pineapple juice,250,120,1,1,0,0.2,32,Fruits
+Plums,256,185,1,1,0,0.7,50,Fruits
+"Raw, 2"" diameter",60,30,1,1,0,0.2,7,Fruits
+Prunes,270,300,3,1,0,0.8,81,Fruits
+Prune juice,240,170,1,1,0,0.7,45,Fruits
+Raisins,88,230,2,1,0,0.7,82,Fruits
+Raspberries,100,100,1,1,0,2,25,Fruits
+"Raw, red",100,57,1,1,0,5,14,Fruits
+Rhubarb sweetened,270,385,1,1,0,1.9,98,Fruits
+Strawberries,227,242,1,1,0,1.3,60,Fruits
+Raw,149,54,1,1,0,1.9,12,Fruits
+Tangerines,114,40,1,1,0,1,10,Fruits
+Watermelon,925,120,2,1,0,3.6,29,Fruits
+Biscuits,38,130,3,4,3,1,18,"Breads, cereals, fastfood,grains"
+Bran flakes,25,117,3,1,0,0.1,32,"Breads, cereals, fastfood,grains"
+"Bread, cracked wheat",23,60,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+Rye,23,55,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+"White, 20 slices, or",454,1225,39,15,12,9,229,"Breads, cereals, fastfood,grains"
+Whole-wheat,454,1100,48,14,10,67.5,216,"Breads, cereals, fastfood,grains"
+Whole-wheat,23,55,2,1,0,0.31,11,"Breads, cereals, fastfood,grains"
+Corn bread ground meal,50,100,3,4,2,0.3,15,"Breads, cereals, fastfood,grains"
+Cornflakes,25,110,2,1,0,0.1,25,"Breads, cereals, fastfood,grains"
+Corn grits cooked,242,120,8,1,0,0.2,27,"Breads, cereals, fastfood,grains"
+Corn meal,118,360,9,4,2,1.6,74,"Breads, cereals, fastfood,grains"
+Crackers,14,55,1,1,0,1,10,"Breads, cereals, fastfood,grains"
+"Soda, 2 1/2 square",11,45,1,1,0,1,8,"Breads, cereals, fastfood,grains"
+Farina,238,105,3,1,0,8,22,"Breads, cereals, fastfood,grains"
+Flour,110,460,39,22,0,2.9,33,"Breads, cereals, fastfood,grains"
+Wheat (all purpose),110,400,12,1,0,0.3,84,"Breads, cereals, fastfood,grains"
+Wheat (whole),120,390,13,2,0,2.8,79,"Breads, cereals, fastfood,grains"
+Macaroni,140,155,5,1,0,0.1,32,"Breads, cereals, fastfood,grains"
+Baked with cheese,220,475,18,25,24,1,44,"Breads, cereals, fastfood,grains"
+Muffins,48,135,4,5,4,1,19,"Breads, cereals, fastfood,grains"
+Noodles,160,200,7,2,2,0.1,37,"Breads, cereals, fastfood,grains"
+Oatmeal,236,150,5,3,2,4.6,26,"Breads, cereals, fastfood,grains"
+"Pancakes 4"" diam.",108,250,7,9,0,0.1,28,"Breads, cereals, fastfood,grains"
+"Wheat, pancakes 4"" diam.",108,250,7,9,0,0.1,28,"Breads, cereals, fastfood,grains"
+"Pizza 14"" diam.",75,180,8,6,5,1,23,"Breads, cereals, fastfood,grains"
+Popcorn salted,28,152,3,7,2,0.5,20,"Breads, cereals, fastfood,grains"
+Puffed rice,14,55,1,1,0,1,12,"Breads, cereals, fastfood,grains"
+Puffed wheat presweetened,28,105,1,1,0,0.6,26,"Breads, cereals, fastfood,grains"
+Rice,208,748,15,3,0,1.2,154,"Breads, cereals, fastfood,grains"
+Converted,187,677,14,1,0,0.4,142,"Breads, cereals, fastfood,grains"
+White,191,692,14,1,0,0.3,150,"Breads, cereals, fastfood,grains"
+Rice flakes,30,115,2,1,0,0.1,26,"Breads, cereals, fastfood,grains"
+Rice polish,50,132,6,6,0,1.2,28,"Breads, cereals, fastfood,grains"
+Rolls,50,411,3,12,11,0.1,23,"Breads, cereals, fastfood,grains"
+of refined flour,38,115,3,2,2,1,20,"Breads, cereals, fastfood,grains"
+whole-wheat,40,102,4,1,0,0.1,20,"Breads, cereals, fastfood,grains"
+Spaghetti with meat sauce,250,285,13,10,6,0.5,35,"Breads, cereals, fastfood,grains"
+with tomatoes and cheese,250,210,6,5,3,0.5,36,"Breads, cereals, fastfood,grains"
+Spanish rice,250,217,4,4,0,1.2,40,"Breads, cereals, fastfood,grains"
+Shredded wheat biscuit,28,100,3,1,0,0.7,23,"Breads, cereals, fastfood,grains"
+Waffles,75,240,8,9,1,0.1,30,"Breads, cereals, fastfood,grains"
+Wheat germ,68,245,17,7,3,2.5,34,"Breads, cereals, fastfood,grains"
+Wheat-germ cereal toasted,65,260,20,7,3,2.5,36,"Breads, cereals, fastfood,grains"
+Wheat meal cereal unrefined,30,103,4,1,0,0.7,25,"Breads, cereals, fastfood,grains"
+"Wheat, cooked",200,275,12,1,0,4.4,35,"Breads, cereals, fastfood,grains"
+Bean soups,250,190,8,5,4,0.6,30,Soups
+Beef soup,250,100,6,4,4,0.5,11,Soups
+Bouillon,240,24,5,0,0,0,0,Soups
+chicken soup,250,75,4,2,2,0,10,Soups
+Clam chowder,255,85,5,2,8,0.5,12,Soups
+Cream soups,255,200,7,12,11,1.2,18,Soups
+Noodle,250,115,6,4,3,0.2,13,Soups
+Split-pea soup,250,147,8,3,3,0.5,25,Soups
+Tomato soup,245,175,6,7,6,0.5,22,Soups
+Vegetable,250,80,4,2,2,0,14,Soups
+Apple betty,100,150,1,4,0,0.5,29,"Desserts, sweets"
+Bread pudding,200,374,11,12,11,0.2,56,"Desserts, sweets"
+Cakes,40,110,3,1,0,0,23,"Desserts, sweets"
+Chocolate fudge,120,420,5,14,12,0.3,70,"Desserts, sweets"
+Cupcake,50,160,3,3,2,1,31,"Desserts, sweets"
+Fruit cake,30,105,2,4,3,0.2,17,"Desserts, sweets"
+Gingerbread,55,180,2,7,6,1,28,"Desserts, sweets"
+"Plain, with no icing",55,180,4,5,4,1,31,"Desserts, sweets"
+Sponge cake,40,115,3,2,2,0,22,"Desserts, sweets"
+Candy,25,104,1,3,3,0,19,"Desserts, sweets"
+Chocolate creams,30,130,1,4,4,0,24,"Desserts, sweets"
+Fudge,90,370,1,12,11,0.1,80,"Desserts, sweets"
+Hard candies,28,90,1,0,0,0,28,"Desserts, sweets"
+Marshmallows,30,98,1,0,0,0,23,"Desserts, sweets"
+Milk chocolate,56,290,2,6,6,0.2,44,"Desserts, sweets"
+Chocolate syrup,40,80,1,1,1,0,22,"Desserts, sweets"
+Doughnuts,33,135,2,7,4,1,17,"Desserts, sweets"
+"Gelatin, made with water",239,155,4,1,1,0,36,"Desserts, sweets"
+Honey,42,120,1,0,0,0,30,"Jams, Jellies"
+Ice cream,300,250,0,0,12,10,0,"Desserts, sweets"
+Ices,150,117,0,0,0,0,48,"Desserts, sweets"
+preserves,20,55,0,0,0,1,14,"Jams, Jellies"
+Jellies,20,50,0,0,0,0,13,"Jams, Jellies"
+Molasses,20,45,0,0,0,8,11,"Jams, Jellies"
+Cane Syrup,20,50,0,0,0,0,13,"Jams, Jellies"
+"9"" diam. pie",135,330,3,13,11,0.1,53,"Desserts, sweets"
+Cherry Pie,135,340,3,13,11,0.1,55,"Desserts, sweets"
+Custard,130,265,7,11,10,0,34,"Desserts, sweets"
+Lemon meringue,120,300,4,12,10,0.1,45,"Desserts, sweets"
+Mince,135,340,3,9,8,0.7,62,"Desserts, sweets"
+Pumpkin Pie,130,265,5,12,11,8,34,"Desserts, sweets"
+Puddings Sugar,200,770,0,0,0,0,199,"Desserts, sweets"
+3 teaspoons sugar,12,50,0,0,0,0,12,"Desserts, sweets"
+"Brown, firm-packed, dark sugar",220,815,0,1,0,0,210,"Jams, Jellies"
+Syrup,40,100,0,0,0,0,25,"Jams, Jellies"
+table blends sugar,40,110,0,0,0,0,29,"Jams, Jellies"
+Tapioca cream pudding,250,335,10,10,9,0,42,"Desserts, sweets"
+Almonds,70,425,13,38,28,1.8,13,Seeds and Nuts
+roasted and salted,70,439,13,40,31,1.8,13,Seeds and Nuts
+Brazil nuts,70,457,10,47,31,2,7,Seeds and Nuts
+Cashews,70,392,12,32,28,0.9,20,Seeds and Nuts
+coconut sweetened,50,274,1,20,19,2,26,Seeds and Nuts
+Peanut butter,50,300,12,25,17,0.9,9,Seeds and Nuts
+"Peanut butter, natural",50,284,13,24,10,0.9,8,Seeds and Nuts
+Peanuts,50,290,13,25,16,1.2,9,Seeds and Nuts
+Pecans,52,343,5,35,25,1.1,7,Seeds and Nuts
+Sesame seeds,50,280,9,24,13,3.1,10,Seeds and Nuts
+Sunflower seeds,50,280,12,26,7,1.9,10,Seeds and Nuts
+Walnuts,50,325,7,32,7,1,8,Seeds and Nuts
+Beer,480,228,1,0,0,0,8,"Drinks,Alcohol, Beverages"
+Gin,28,70,0,0,0,0,1,"Drinks,Alcohol, Beverages"
+Wines,120,164,1,0,0,0,9,"Drinks,Alcohol, Beverages"
+Table (12.2% alcohol),120,100,1,0,0,0,5,"Drinks,Alcohol, Beverages"
+Carbonated drinks Artificially sweetened,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages"
+Club soda,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages"
+Cola drinks,346,137,0,0,0,0,38,"Drinks,Alcohol, Beverages"
+Fruit-flavored soda,346,161,0,0,0,0,42,"Drinks,Alcohol, Beverages"
+Ginger ale,346,105,0,0,0,0,28,"Drinks,Alcohol, Beverages"
+Root beer,346,140,0,0,0,0,35,"Drinks,Alcohol, Beverages"
+Coffee,230,3,1,0,0,0,1,"Drinks,Alcohol, Beverages"
+Tea,230,4,0,1,0,0,1,"Drinks,Alcohol, Beverages"
+Cows' milk,976,660,32,40,36,0,48,Dairy products
+Milk skim,984,360,36,1,1,0,52,Dairy products
+Buttermilk,246,127,9,5,4,0,13,Dairy products
+"Evaporated, undiluted",252,345,16,20,18,0,24,Dairy products
+Fortified milk,1419,1373,89,42,23,1.4,119,Dairy products
+Powdered milk,103,515,27,28,24,0,39,Dairy products
+"skim, instant",85,290,30,1,1,0,42,Dairy products
+"skim, non-instant",85,290,30,1,1,1,42,Dairy products
+Goats' milk,244,165,8,10,8,0,11,Dairy products
+(1/2 cup ice cream),540,690,24,24,22,0,70,Dairy products
+Cocoa,252,235,8,11,10,0,26,Dairy products
+skim. milk,250,128,18,4,3,1,13,Dairy products
+(cornstarch),248,275,9,10,9,0,40,Dairy products
+Custard,248,285,13,14,11,0,28,Dairy products
+Ice cream,188,300,6,18,16,0,29,Dairy products
+Ice milk,190,275,9,10,9,0,32,Dairy products
+Cream or half-and-half,120,170,4,15,13,0,5,Dairy products
+or whipping,119,430,2,44,27,1,3,Dairy products
+Cheese,225,240,30,11,10,0,6,Dairy products
+uncreamed,225,195,38,1,1,0,6,Dairy products
+Cheddar,17,70,4,6,5,0,1,Dairy products
+"Cheddar, grated cup",56,226,14,19,17,0,1,Dairy products
+Cream cheese,28,105,2,11,10,0,1,Dairy products
+Processed cheese,28,105,7,9,8,0,1,Dairy products
+Roquefort type,28,105,6,9,8,0,1,Dairy products
+Swiss,28,105,7,8,7,0,1,Dairy products
+Eggs raw,100,150,12,12,10,0,1,Dairy products
+Eggs Scrambled or fried,128,220,13,16,14,0,1,Dairy products
+Yolks,34,120,6,10,8,0,1,"Fats, Oils, Shortenings"
+Butter,14,100,1,11,10,0,1,"Fats, Oils, Shortenings"
+Butter,112,113,114,115,116,117,118,"Fats, Oils, Shortenings"
+Butter,112,113,114,115,116,117,118,"Fats, Oils, Shortenings"
+Hydrogenated cooking fat,100,665,0,100,88,0,0,"Fats, Oils, Shortenings"
+Lard,110,992,0,110,92,0,0,"Fats, Oils, Shortenings"
+Margarine,112,806,1,91,76,0,1,"Fats, Oils, Shortenings"
+"Margarine, 2 pat or",14,100,1,11,9,0,1,"Fats, Oils, Shortenings"
+Mayonnaise,15,110,1,12,5,0,1,"Fats, Oils, Shortenings"
+Corn oil,14,125,0,14,5,0,0,"Fats, Oils, Shortenings"
+Olive oil,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+Safflower seed oil,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+French dressing,15,60,1,6,2,0,2,"Fats, Oils, Shortenings"
+Thousand Island sauce,15,75,1,8,3,0,1,"Fats, Oils, Shortenings"
+Salt pork,60,470,3,55,1,0,0,"Meat, Poultry"
+Bacon,16,95,4,8,7,0,1,"Meat, Poultry"
+Beef,85,245,23,16,15,0,0,"Meat, Poultry"
+Hamburger,85,245,21,17,15,0,0,"Meat, Poultry"
+Ground lean,85,185,24,10,9,0,0,"Meat, Poultry"
+Roast beef,85,390,16,36,35,0,0,"Meat, Poultry"
+Steak,85,330,20,27,25,0,0,"Meat, Poultry"
+"Steak, lean, as round",85,220,24,12,11,0,0,"Meat, Poultry"
+Corned beef,85,185,22,10,9,0,0,"Meat, Poultry"
+Corned beef hash canned,85,120,12,8,7,1,6,"Meat, Poultry"
+Corned beef hash Dried,56,115,19,4,4,0,0,"Meat, Poultry"
+Pot-pie,227,480,18,28,25,1,32,"Meat, Poultry"
+Corned beef hash Stew,235,185,15,10,9,1,15,"Meat, Poultry"
+chicken,85,185,23,9,7,0,0,"Meat, Poultry"
+"Fried, breast or leg and thigh chicken",85,245,25,15,11,0,0,"Meat, Poultry"
+Roasted chicken,100,290,25,20,16,0,0,"Meat, Poultry"
+"Chicken livers, fried",100,140,22,14,12,0,2.3,"Meat, Poultry"
+"Duck, domestic",100,370,16,28,0,0,0,"Meat, Poultry"
+"Lamb, chop, broiled",115,480,24,35,33,0,0,"Meat, Poultry"
+Leg roasted,86,314,20,14,14,0,0,"Meat, Poultry"
+"Shoulder, braised",85,285,18,23,21,0,0,"Meat, Poultry"
+"Pork, chop, 1 thick",100,260,16,21,18,0,0,"Meat, Poultry"
+Ham pan-broiled,85,290,16,22,19,0,0,"Meat, Poultry"
+"Ham, as ",57,170,13,13,11,0,0,"Meat, Poultry"
+"Ham, canned, spiced",57,165,8,14,12,0,1,"Meat, Poultry"
+Pork roast,85,310,21,24,21,0,0,"Meat, Poultry"
+Pork sausage,100,475,18,44,40,0,0,"Meat, Poultry"
+Turkey,100,265,27,15,0,0,0,"Meat, Poultry"
+Veal,85,185,23,9,8,0,0,"Meat, Poultry"
+Roast,85,305,13,14,13,0,0,"Meat, Poultry"
+Clams,85,87,12,1,0,0,2,"Fish, Seafood"
+Cod,100,170,28,5,0,0,0,"Fish, Seafood"
+Crab meat,85,90,14,2,0,0,1,"Fish, Seafood"
+Fish sticks fried,112,200,19,10,5,0,8,"Fish, Seafood"
+Flounder,100,200,30,8,0,0,0,"Fish, Seafood"
+Haddock,85,135,16,5,4,0,6,"Fish, Seafood"
+Halibut,100,182,26,8,0,0,0,"Fish, Seafood"
+Herring,100,211,22,13,0,0,0,"Fish, Seafood"
+Lobster,100,92,18,1,0,0,1,"Fish, Seafood"
+Mackerel,85,155,18,9,0,1,0,"Fish, Seafood"
+Oysters,230,231,232,233,234,235,236,"Fish, Seafood"
+Oyster stew,85,125,19,6,1,0,0,"Fish, Seafood"
+Salmon,85,120,17,5,1,0,0,"Fish, Seafood"
+Sardines,85,180,22,9,4,0,0,"Fish, Seafood"
+Scallops,100,104,18,8,0,0,10,"Fish, Seafood"
+Shad,85,170,20,10,0,0,0,"Fish, Seafood"
+Shrimp,85,110,23,1,0,0,0,"Fish, Seafood"
+Swordfish,100,180,27,6,0,0,0,"Fish, Seafood"
+Tuna,85,170,25,7,3,0,0,"Fish, Seafood"
+Artichoke,100,44,2,1,1,2,10,Vegetables
+Asparagus,96,18,1,1,1,0.5,3,Vegetables
+Beans,125,25,1,1,1,0.8,6,Vegetables
+Lima,160,140,8,1,1,3,24,Vegetables
+"Lima, dry, cooked",192,260,16,1,1,2,48,Vegetables
+"Navy, baked with pork",200,250,11,6,6,2,37,Vegetables
+Red kidney,260,230,15,1,0,2.5,42,Vegetables
+Bean sprouts,50,17,1,1,0,0.3,3,Vegetables
+Beet greens,100,27,2,1,0,1.4,6,Vegetables
+Beetroots,165,1,12,0,1,1,0.8,Vegetables
+Broccoli,150,45,5,1,0,1.9,8,Vegetables
+Brussels sprouts,130,60,6,1,0,1.7,12,Vegetables
+Sauerkraut,150,32,1,1,0,1.2,7,Vegetables
+Steamed cabbage,170,40,2,1,0,1.3,9,Vegetables
+Carrots,150,45,1,1,0,0.9,10,Vegetables
+"Raw, grated",110,45,1,1,0,1.2,10,Vegetables
+"Strips, from raw",50,20,1,1,0,0.5,5,Vegetables
+Cauliflower,120,30,3,1,0,1,6,Vegetables
+Celery,100,20,1,1,0,1,4,Vegetables
+Stalk raw,40,5,1,1,0,0.3,1,Vegetables
+Chard steamed,150,30,2,1,0,1.4,7,Vegetables
+Collards,150,51,5,1,0,2,8,Vegetables
+Corn,100,92,3,1,1,0.8,21,Vegetables
+cooked or canned,200,170,5,1,0,1.6,41,Vegetables
+Cucumbers,50,6,1,0,0,0.2,1,Vegetables
+Dandelion greens,180,80,5,1,0,3.2,16,Vegetables
+Eggplant,180,30,2,1,0,1,9,Vegetables
+Endive,57,10,1,1,0,0.6,2,Vegetables
+Kale,110,45,4,1,0,0.9,8,Vegetables
+Kohlrabi,140,40,2,1,0,1.5,9,Vegetables
+"Lambs quarters, steamed",150,48,5,1,0,3.2,7,Vegetables
+Lentils,200,212,15,1,0,2.4,38,Vegetables
+Lettuce,100,14,1,1,0,0.5,2,Vegetables
+Iceberg,100,13,1,1,0,0.5,3,Vegetables
+Mushrooms canned,120,12,2,1,0,1,4,Vegetables
+Mustard greens,140,30,3,1,0,1.2,6,Vegetables
+Okra,100,32,1,1,0,1,7,Vegetables
+Onions,210,80,2,1,0,1.6,18,Vegetables
+"Raw, green",50,22,1,1,0,1,5,Vegetables
+Parsley,50,2,1,1,0,1,1,Vegetables
+Parsnips,155,95,2,1,0,3,22,Vegetables
+Peas,100,66,3,1,0,0.1,13,Vegetables
+"Fresh, steamed peas",100,70,5,1,0,2.2,12,Vegetables
+Frozen peas,100,0,5,1,0,1.8,12,Vegetables
+Split cooked peas,100,115,8,1,0,0.4,21,Vegetables
+heated peas,100,53,3,1,0,1,10,Vegetables
+Peppers canned,38,10,1,1,0,1,2,Vegetables
+"Peppers Raw, green, sweet",100,25,1,1,0,1.4,6,Vegetables
+Peppers with beef and crumbs,150,255,19,9,8,1,24,Vegetables
+"Potatoes, baked",100,100,2,1,0,0.5,22,Vegetables
+French-fried,60,155,1,7,3,0.4,20,Vegetables
+Potatoes Mashed with milk and butter,200,230,4,12,11,0.7,28,Vegetables
+"Potatoes, pan-tried",100,268,4,14,6,0.4,33,Vegetables
+Scalloped with cheese potatoes,100,145,6,8,7,0.4,14,Vegetables
+Steamed potatoes before peeling,100,80,2,1,0,0.4,19,Vegetables
+Potato chips,20,110,1,7,4,1,10,Vegetables
+Radishes,50,10,1,0,0,0.3,2,Vegetables
+Rutabagas,100,32,1,0,0,1.4,8,Vegetables
+Soybeans,200,260,22,11,0,3.2,20,Vegetables
+Spinach,100,26,3,1,0,1,3,Vegetables
+Squash,210,35,1,1,0,0.6,8,Vegetables
+"Winter, mashed",200,95,4,1,0,2.6,23,Vegetables
+Sweet potatoes,110,155,2,1,0,1,36,Vegetables
+Candied,175,235,2,6,5,1.5,80,Vegetables
+Tomatoes,240,50,2,1,0,1,9,Vegetables
+"Raw, 2 by 2 1/2",150,30,1,1,0,0.6,6,Vegetables
+Tomato juice,240,50,2,1,0,0.6,10,Vegetables
+Tomato catsup,17,15,1,1,0,1,4,Vegetables
+Turnip greens,145,45,4,1,0,1.8,8,Vegetables
+"Turnips, steamed",155,40,1,1,0,1.8,9,Vegetables
+"Watercress stems, raw",50,9,1,1,0,0.3,1,Fruits
+Apple juice canned,250,125,1,0,0,0,34,Fruits
+Apple vinegar,100,14,1,0,0,0,3,Fruits
+"Apples, raw",130,70,1,1,0,1,18,Fruits
+Stewed or canned,240,100,1,1,0,2,26,Fruits
+Apricots,250,220,2,1,0,1,57,Fruits
+"Dried, uncooked",75,220,4,1,0,1,50,Fruits
+Fresh,114,55,1,1,0,0.7,14,Fruits
+"Nectar, or juice",250,140,1,1,0,2,36,Fruits
+Avocado,108,185,2,18,12,1.8,6,Fruits
+Banana,150,85,1,1,0,0.9,23,Fruits
+Blackberries,144,85,2,1,0,6.6,19,Fruits
+Blueberries,250,245,1,1,0,2,65,Fruits
+Cantaloupe,380,40,1,1,0,2.2,9,Fruits
+Cherries,257,100,2,1,0,2,26,Fruits
+"Fresh, raw",114,65,1,1,0,0.8,15,Fruits
+Cranberry sauce sweetened,277,530,1,1,0,1.2,142,Fruits
+Dates,178,505,4,1,0,3.6,134,Fruits
+Figs,42,120,2,1,0,1.9,30,Fruits
+"Fresh, raw figs",114,90,2,1,0,1,22,Fruits
+figs Canned with syrup ,115,130,1,1,0,1,32,Fruits
+"Fruit cocktail, canned",256,195,1,1,0,0.5,50,Fruits
+Grapefruit sections,250,170,1,1,0,0.5,44,Fruits
+"Grapefruit, fresh, 5"" diameter",285,50,1,1,1,1,14,Fruits
+Grapefruit juice,250,100,1,1,0,1,24,Fruits
+Grapes,153,70,1,1,0,0.8,16,Fruits
+"European, as Muscat, Tokay",160,100,1,1,0,0.7,26,Fruits
+Grape juice,250,160,1,1,0,1,42,Fruits
+Lemon juice,125,30,1,1,0,1,10,Fruits
+Lemonade concentratefrozen,220,430,1,1,0,1,112,Fruits
+Limeade concentrate frozen,218,405,1,1,0,1,108,Fruits
+Olives large,65,72,1,10,9,0.8,3,Fruits
+OlivesRipe,65,105,1,13,12,1,1,Fruits
+"Oranges 3"" diameter",180,60,2,1,1,1,16,Fruits
+Orange juice,250,112,2,1,0,0.2,25,Fruits
+Frozen ,210,330,2,1,1,0.4,78,Fruits
+Papaya,200,75,1,1,0,1.8,18,Fruits
+Peaches,257,200,1,1,0,1,52,Fruits
+"Fresh, raw",114,35,1,1,0,0.6,10,Fruits
+Pears,255,195,1,1,0,2,50,Fruits
+"Raw, 3 by 2V",182,100,1,1,0,2,25,Fruits
+Persimmons,125,75,1,1,0,2,20,Fruits
+Pineapple,122,95,1,1,0,0.4,26,Fruits
+Pineapple Crushed,260,205,1,1,0,0.7,55,Fruits
+"Raw, diced",140,75,1,1,1,0.6,19,Fruits
+Pineapple juice,250,120,1,1,0,0.2,32,Fruits
+Plums,256,185,1,1,0,0.7,50,Fruits
+"Raw, 2"" diameter",60,30,1,1,0,0.2,7,Fruits
+Prunes,270,300,3,1,0,0.8,81,Fruits
+Prune juice,240,170,1,1,0,0.7,45,Fruits
+Raisins,88,230,2,1,0,0.7,82,Fruits
+Raspberries,100,100,1,1,0,2,25,Fruits
+"Raw, red",100,57,1,1,0,5,14,Fruits
+Rhubarb sweetened,270,385,1,1,0,1.9,98,Fruits
+Strawberries,227,242,1,1,0,1.3,60,Fruits
+Raw,149,54,1,1,0,1.9,12,Fruits
+Tangerines,114,40,1,1,0,1,10,Fruits
+Watermelon,925,120,2,1,0,3.6,29,Fruits
+Biscuits,38,130,3,4,3,1,18,"Breads, cereals, fastfood,grains"
+Bran flakes,25,117,3,1,0,0.1,32,"Breads, cereals, fastfood,grains"
+"Bread, cracked wheat",23,60,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+Rye,23,55,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+"White, 20 slices, or",454,1225,39,15,12,9,229,"Breads, cereals, fastfood,grains"
+Whole-wheat,454,1100,48,14,10,67.5,216,"Breads, cereals, fastfood,grains"
+Whole-wheat,23,55,2,1,0,0.31,11,"Breads, cereals, fastfood,grains"
+Corn bread ground meal,50,100,3,4,2,0.3,15,"Breads, cereals, fastfood,grains"
+Cornflakes,25,110,2,1,0,0.1,25,"Breads, cereals, fastfood,grains"
+Corn grits cooked,242,120,8,1,0,0.2,27,"Breads, cereals, fastfood,grains"
+Corn meal,118,360,9,4,2,1.6,74,"Breads, cereals, fastfood,grains"
+Crackers,14,55,1,1,0,1,10,"Breads, cereals, fastfood,grains"
+"Soda, 2 1/2 square",11,45,1,1,0,1,8,"Breads, cereals, fastfood,grains"
+Farina,238,105,3,1,0,8,22,"Breads, cereals, fastfood,grains"
+Flour,110,460,39,22,0,2.9,33,"Breads, cereals, fastfood,grains"
+Wheat (all purpose),110,400,12,1,0,0.3,84,"Breads, cereals, fastfood,grains"
+Wheat (whole),120,390,13,2,0,2.8,79,"Breads, cereals, fastfood,grains"
+Macaroni,140,155,5,1,0,0.1,32,"Breads, cereals, fastfood,grains"
+Baked with cheese,220,475,18,25,24,1,44,"Breads, cereals, fastfood,grains"
+Muffins,48,135,4,5,4,1,19,"Breads, cereals, fastfood,grains"
+Noodles,160,200,7,2,2,0.1,37,"Breads, cereals, fastfood,grains"
+Oatmeal,236,150,5,3,2,4.6,26,"Breads, cereals, fastfood,grains"
+"Pancakes 4"" diam.",108,250,7,9,0,0.1,28,"Breads, cereals, fastfood,grains"
+"Wheat, pancakes 4"" diam.",108,250,7,9,0,0.1,28,"Breads, cereals, fastfood,grains"
+"Pizza 14"" diam.",75,180,8,6,5,1,23,"Breads, cereals, fastfood,grains"
+Popcorn salted,28,152,3,7,2,0.5,20,"Breads, cereals, fastfood,grains"
+Puffed rice,14,55,1,1,0,1,12,"Breads, cereals, fastfood,grains"
+Puffed wheat presweetened,28,105,1,1,0,0.6,26,"Breads, cereals, fastfood,grains"
+Rice,208,748,15,3,0,1.2,154,"Breads, cereals, fastfood,grains"
+Converted,187,677,14,1,0,0.4,142,"Breads, cereals, fastfood,grains"
+White,191,692,14,1,0,0.3,150,"Breads, cereals, fastfood,grains"
+Rice flakes,30,115,2,1,0,0.1,26,"Breads, cereals, fastfood,grains"
+Rice polish,50,132,6,6,0,1.2,28,"Breads, cereals, fastfood,grains"
+Rolls,50,411,3,12,11,0.1,23,"Breads, cereals, fastfood,grains"
+of refined flour,38,115,3,2,2,1,20,"Breads, cereals, fastfood,grains"
+whole-wheat,40,102,4,1,0,0.1,20,"Breads, cereals, fastfood,grains"
+Spaghetti with meat sauce,250,285,13,10,6,0.5,35,"Breads, cereals, fastfood,grains"
+with tomatoes and cheese,250,210,6,5,3,0.5,36,"Breads, cereals, fastfood,grains"
+Spanish rice,250,217,4,4,0,1.2,40,"Breads, cereals, fastfood,grains"
+Shredded wheat biscuit,28,100,3,1,0,0.7,23,"Breads, cereals, fastfood,grains"
+Waffles,75,240,8,9,1,0.1,30,"Breads, cereals, fastfood,grains"
+Wheat germ,68,245,17,7,3,2.5,34,"Breads, cereals, fastfood,grains"
+Wheat-germ cereal toasted,65,260,20,7,3,2.5,36,"Breads, cereals, fastfood,grains"
+Wheat meal cereal unrefined,30,103,4,1,0,0.7,25,"Breads, cereals, fastfood,grains"
+"Wheat, cooked",200,275,12,1,0,4.4,35,"Breads, cereals, fastfood,grains"
+Bean soups,250,190,8,5,4,0.6,30,Soups
+Beef soup,250,100,6,4,4,0.5,11,Soups
+Bouillon,240,24,5,0,0,0,0,Soups
+chicken soup,250,75,4,2,2,0,10,Soups
+Clam chowder,255,85,5,2,8,0.5,12,Soups
+Cream soups,255,200,7,12,11,1.2,18,Soups
+Noodle,250,115,6,4,3,0.2,13,Soups
+Split-pea soup,250,147,8,3,3,0.5,25,Soups
+Tomato soup,245,175,6,7,6,0.5,22,Soups
+Vegetable,250,80,4,2,2,0,14,Soups
+Apple betty,100,150,1,4,0,0.5,29,"Desserts, sweets"
+Bread pudding,200,374,11,12,11,0.2,56,"Desserts, sweets"
+Cakes,40,110,3,1,0,0,23,"Desserts, sweets"
+Chocolate fudge,120,420,5,14,12,0.3,70,"Desserts, sweets"
+Cupcake,50,160,3,3,2,1,31,"Desserts, sweets"
+Fruit cake,30,105,2,4,3,0.2,17,"Desserts, sweets"
+Gingerbread,55,180,2,7,6,1,28,"Desserts, sweets"
+"Plain, with no icing",55,180,4,5,4,1,31,"Desserts, sweets"
+Sponge cake,40,115,3,2,2,0,22,"Desserts, sweets"
+Candy,25,104,1,3,3,0,19,"Desserts, sweets"
+Chocolate creams,30,130,1,4,4,0,24,"Desserts, sweets"
+Fudge,90,370,1,12,11,0.1,80,"Desserts, sweets"
+Hard candies,28,90,1,0,0,0,28,"Desserts, sweets"
+Marshmallows,30,98,1,0,0,0,23,"Desserts, sweets"
+Milk chocolate,56,290,2,6,6,0.2,44,"Desserts, sweets"
+Chocolate syrup,40,80,1,1,1,0,22,"Desserts, sweets"
+Doughnuts,33,135,2,7,4,1,17,"Desserts, sweets"
+"Gelatin, made with water",239,155,4,1,1,0,36,"Desserts, sweets"
+Honey,42,120,1,0,0,0,30,"Jams, Jellies"
+Ice cream,300,250,0,0,12,10,0,"Desserts, sweets"
+Ices,150,117,0,0,0,0,48,"Desserts, sweets"
+preserves,20,55,0,0,0,1,14,"Jams, Jellies"
+Jellies,20,50,0,0,0,0,13,"Jams, Jellies"
+Molasses,20,45,0,0,0,8,11,"Jams, Jellies"
+Cane Syrup,20,50,0,0,0,0,13,"Jams, Jellies"
+"9"" diam. pie",135,330,3,13,11,0.1,53,"Desserts, sweets"
+Cherry Pie,135,340,3,13,11,0.1,55,"Desserts, sweets"
+Custard,130,265,7,11,10,0,34,"Desserts, sweets"
+Lemon meringue,120,300,4,12,10,0.1,45,"Desserts, sweets"
+Mince,135,340,3,9,8,0.7,62,"Desserts, sweets"
+Pumpkin Pie,130,265,5,12,11,8,34,"Desserts, sweets"
+Puddings Sugar,200,770,0,0,0,0,199,"Desserts, sweets"
+3 teaspoons sugar,12,50,0,0,0,0,12,"Desserts, sweets"
+"Brown, firm-packed, dark sugar",220,815,0,1,0,0,210,"Jams, Jellies"
+Syrup,40,100,0,0,0,0,25,"Jams, Jellies"
+table blends sugar,40,110,0,0,0,0,29,"Jams, Jellies"
+Tapioca cream pudding,250,335,10,10,9,0,42,"Desserts, sweets"
+Almonds,70,425,13,38,28,1.8,13,Seeds and Nuts
+roasted and salted,70,439,13,40,31,1.8,13,Seeds and Nuts
+Brazil nuts,70,457,10,47,31,2,7,Seeds and Nuts
+Cashews,70,392,12,32,28,0.9,20,Seeds and Nuts
+coconut sweetened,50,274,1,20,19,2,26,Seeds and Nuts
+Peanut butter,50,300,12,25,17,0.9,9,Seeds and Nuts
+"Peanut butter, natural",50,284,13,24,10,0.9,8,Seeds and Nuts
+Peanuts,50,290,13,25,16,1.2,9,Seeds and Nuts
+Pecans,52,343,5,35,25,1.1,7,Seeds and Nuts
+Sesame seeds,50,280,9,24,13,3.1,10,Seeds and Nuts
+Sunflower seeds,50,280,12,26,7,1.9,10,Seeds and Nuts
+Walnuts,50,325,7,32,7,1,8,Seeds and Nuts
+Beer,480,228,1,0,0,0,8,"Drinks,Alcohol, Beverages"
+Gin,28,70,0,0,0,0,1,"Drinks,Alcohol, Beverages"
+Wines,120,164,1,0,0,0,9,"Drinks,Alcohol, Beverages"
+Table (12.2% alcohol),120,100,1,0,0,0,5,"Drinks,Alcohol, Beverages"
+Carbonated drinks Artificially sweetened,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages"
+Club soda,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages"
+Cola drinks,346,137,0,0,0,0,38,"Drinks,Alcohol, Beverages"
+Fruit-flavored soda,346,161,0,0,0,0,42,"Drinks,Alcohol, Beverages"
+Ginger ale,346,105,0,0,0,0,28,"Drinks,Alcohol, Beverages"
+Root beer,346,140,0,0,0,0,35,"Drinks,Alcohol, Beverages"
+Coffee,230,3,1,0,0,0,1,"Drinks,Alcohol, Beverages"
+Tea,230,4,0,1,0,0,1,"Drinks,Alcohol, Beverages"
+Cows' milk,976,660,32,40,36,0,48,Dairy products
+Milk skim,984,360,36,1,1,0,52,Dairy products
+Buttermilk,246,127,9,5,4,0,13,Dairy products
+"Evaporated, undiluted",252,345,16,20,18,0,24,Dairy products
+Fortified milk,1419,1373,89,42,23,1.4,119,Dairy products
+Powdered milk,103,515,27,28,24,0,39,Dairy products
+"skim, instant",85,290,30,1,1,0,42,Dairy products
+"skim, non-instant",85,290,30,1,1,1,42,Dairy products
+Goats' milk,244,165,8,10,8,0,11,Dairy products
+(1/2 cup ice cream),540,690,24,24,22,0,70,Dairy products
+Cocoa,252,235,8,11,10,0,26,Dairy products
+skim. milk,250,128,18,4,3,1,13,Dairy products
+(cornstarch),248,275,9,10,9,0,40,Dairy products
+Custard,248,285,13,14,11,0,28,Dairy products
+Ice cream,188,300,6,18,16,0,29,Dairy products
+Ice milk,190,275,9,10,9,0,32,Dairy products
+Cream or half-and-half,120,170,4,15,13,0,5,Dairy products
+or whipping,119,430,2,44,27,1,3,Dairy products
+Cheese,225,240,30,11,10,0,6,Dairy products
+uncreamed,225,195,38,1,1,0,6,Dairy products
+Cheddar,17,70,4,6,5,0,1,Dairy products
+"Cheddar, grated cup",56,226,14,19,17,0,1,Dairy products
+Cream cheese,28,105,2,11,10,0,1,Dairy products
+Processed cheese,28,105,7,9,8,0,1,Dairy products
+Roquefort type,28,105,6,9,8,0,1,Dairy products
+Swiss,28,105,7,8,7,0,1,Dairy products
+Eggs raw,100,150,12,12,10,0,1,Dairy products
+Eggs Scrambled or fried,128,220,13,16,14,0,1,Dairy products
+Yolks,34,120,6,10,8,0,1,"Fats, Oils, Shortenings"
+Butter,14,100,1,11,10,0,1,"Fats, Oils, Shortenings"
+Butter,112,113,114,115,116,117,118,"Fats, Oils, Shortenings"
+Butter,112,113,114,115,116,117,118,"Fats, Oils, Shortenings"
+Hydrogenated cooking fat,100,665,0,100,88,0,0,"Fats, Oils, Shortenings"
+Lard,110,992,0,110,92,0,0,"Fats, Oils, Shortenings"
+Margarine,112,806,1,91,76,0,1,"Fats, Oils, Shortenings"
+"Margarine, 2 pat or",14,100,1,11,9,0,1,"Fats, Oils, Shortenings"
+Mayonnaise,15,110,1,12,5,0,1,"Fats, Oils, Shortenings"
+Corn oil,14,125,0,14,5,0,0,"Fats, Oils, Shortenings"
+Olive oil,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+Safflower seed oil,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+French dressing,15,60,1,6,2,0,2,"Fats, Oils, Shortenings"
+Thousand Island sauce,15,75,1,8,3,0,1,"Fats, Oils, Shortenings"
+Salt pork,60,470,3,55,1,0,0,"Meat, Poultry"
+Bacon,16,95,4,8,7,0,1,"Meat, Poultry"
+Beef,85,245,23,16,15,0,0,"Meat, Poultry"
+Hamburger,85,245,21,17,15,0,0,"Meat, Poultry"
+Ground lean,85,185,24,10,9,0,0,"Meat, Poultry"
+Roast beef,85,390,16,36,35,0,0,"Meat, Poultry"
+Steak,85,330,20,27,25,0,0,"Meat, Poultry"
+"Steak, lean, as round",85,220,24,12,11,0,0,"Meat, Poultry"
+Corned beef,85,185,22,10,9,0,0,"Meat, Poultry"
+Corned beef hash canned,85,120,12,8,7,1,6,"Meat, Poultry"
+Corned beef hash Dried,56,115,19,4,4,0,0,"Meat, Poultry"
+Pot-pie,227,480,18,28,25,1,32,"Meat, Poultry"
+Corned beef hash Stew,235,185,15,10,9,1,15,"Meat, Poultry"
+chicken,85,185,23,9,7,0,0,"Meat, Poultry"
+"Fried, breast or leg and thigh chicken",85,245,25,15,11,0,0,"Meat, Poultry"
+Roasted chicken,100,290,25,20,16,0,0,"Meat, Poultry"
+"Chicken livers, fried",100,140,22,14,12,0,2.3,"Meat, Poultry"
+"Duck, domestic",100,370,16,28,0,0,0,"Meat, Poultry"
+"Lamb, chop, broiled",115,480,24,35,33,0,0,"Meat, Poultry"
+Leg roasted,86,314,20,14,14,0,0,"Meat, Poultry"
+"Shoulder, braised",85,285,18,23,21,0,0,"Meat, Poultry"
+"Pork, chop, 1 thick",100,260,16,21,18,0,0,"Meat, Poultry"
+Ham pan-broiled,85,290,16,22,19,0,0,"Meat, Poultry"
+"Ham, as ",57,170,13,13,11,0,0,"Meat, Poultry"
+"Ham, canned, spiced",57,165,8,14,12,0,1,"Meat, Poultry"
+Pork roast,85,310,21,24,21,0,0,"Meat, Poultry"
+Pork sausage,100,475,18,44,40,0,0,"Meat, Poultry"
+Turkey,100,265,27,15,0,0,0,"Meat, Poultry"
+Veal,85,185,23,9,8,0,0,"Meat, Poultry"
+Roast,85,305,13,14,13,0,0,"Meat, Poultry"
+Clams,85,87,12,1,0,0,2,"Fish, Seafood"
+Cod,100,170,28,5,0,0,0,"Fish, Seafood"
+Crab meat,85,90,14,2,0,0,1,"Fish, Seafood"
+Fish sticks fried,112,200,19,10,5,0,8,"Fish, Seafood"
+Flounder,100,200,30,8,0,0,0,"Fish, Seafood"
+Haddock,85,135,16,5,4,0,6,"Fish, Seafood"
+Halibut,100,182,26,8,0,0,0,"Fish, Seafood"
+Herring,100,211,22,13,0,0,0,"Fish, Seafood"
+Lobster,100,92,18,1,0,0,1,"Fish, Seafood"
+Mackerel,85,155,18,9,0,1,0,"Fish, Seafood"
+Oysters,230,231,232,233,234,235,236,"Fish, Seafood"
+Oyster stew,85,125,19,6,1,0,0,"Fish, Seafood"
+Salmon,85,120,17,5,1,0,0,"Fish, Seafood"
+Sardines,85,180,22,9,4,0,0,"Fish, Seafood"
+Scallops,100,104,18,8,0,0,10,"Fish, Seafood"
+Shad,85,170,20,10,0,0,0,"Fish, Seafood"
+Shrimp,85,110,23,1,0,0,0,"Fish, Seafood"
+Swordfish,100,180,27,6,0,0,0,"Fish, Seafood"
+Tuna,85,170,25,7,3,0,0,"Fish, Seafood"
+Artichoke,100,44,2,1,1,2,10,Vegetables
+Asparagus,96,18,1,1,1,0.5,3,Vegetables
+Beans,125,25,1,1,1,0.8,6,Vegetables
+Lima,160,140,8,1,1,3,24,Vegetables
+"Lima, dry, cooked",192,260,16,1,1,2,48,Vegetables
+"Navy, baked with pork",200,250,11,6,6,2,37,Vegetables
+Red kidney,260,230,15,1,0,2.5,42,Vegetables
+Bean sprouts,50,17,1,1,0,0.3,3,Vegetables
+Beet greens,100,27,2,1,0,1.4,6,Vegetables
+Beetroots,165,1,12,0,1,1,0.8,Vegetables
+Broccoli,150,45,5,1,0,1.9,8,Vegetables
+Brussels sprouts,130,60,6,1,0,1.7,12,Vegetables
+Sauerkraut,150,32,1,1,0,1.2,7,Vegetables
+Steamed cabbage,170,40,2,1,0,1.3,9,Vegetables
+Carrots,150,45,1,1,0,0.9,10,Vegetables
+"Raw, grated",110,45,1,1,0,1.2,10,Vegetables
+"Strips, from raw",50,20,1,1,0,0.5,5,Vegetables
+Cauliflower,120,30,3,1,0,1,6,Vegetables
+Celery,100,20,1,1,0,1,4,Vegetables
+Stalk raw,40,5,1,1,0,0.3,1,Vegetables
+Chard steamed,150,30,2,1,0,1.4,7,Vegetables
+Collards,150,51,5,1,0,2,8,Vegetables
+Corn,100,92,3,1,1,0.8,21,Vegetables
+cooked or canned,200,170,5,1,0,1.6,41,Vegetables
+Cucumbers,50,6,1,0,0,0.2,1,Vegetables
+Dandelion greens,180,80,5,1,0,3.2,16,Vegetables
+Eggplant,180,30,2,1,0,1,9,Vegetables
+Endive,57,10,1,1,0,0.6,2,Vegetables
+Kale,110,45,4,1,0,0.9,8,Vegetables
+Kohlrabi,140,40,2,1,0,1.5,9,Vegetables
+"Lambs quarters, steamed",150,48,5,1,0,3.2,7,Vegetables
+Lentils,200,212,15,1,0,2.4,38,Vegetables
+Lettuce,100,14,1,1,0,0.5,2,Vegetables
+Iceberg,100,13,1,1,0,0.5,3,Vegetables
+Mushrooms canned,120,12,2,1,0,1,4,Vegetables
+Mustard greens,140,30,3,1,0,1.2,6,Vegetables
+Okra,100,32,1,1,0,1,7,Vegetables
+Onions,210,80,2,1,0,1.6,18,Vegetables
+"Raw, green",50,22,1,1,0,1,5,Vegetables
+Parsley,50,2,1,1,0,1,1,Vegetables
+Parsnips,155,95,2,1,0,3,22,Vegetables
+Peas,100,66,3,1,0,0.1,13,Vegetables
+"Fresh, steamed peas",100,70,5,1,0,2.2,12,Vegetables
+Frozen peas,100,0,5,1,0,1.8,12,Vegetables
+Split cooked peas,100,115,8,1,0,0.4,21,Vegetables
+heated peas,100,53,3,1,0,1,10,Vegetables
+Peppers canned,38,10,1,1,0,1,2,Vegetables
+"Peppers Raw, green, sweet",100,25,1,1,0,1.4,6,Vegetables
+Peppers with beef and crumbs,150,255,19,9,8,1,24,Vegetables
+"Potatoes, baked",100,100,2,1,0,0.5,22,Vegetables
+French-fried,60,155,1,7,3,0.4,20,Vegetables
+Potatoes Mashed with milk and butter,200,230,4,12,11,0.7,28,Vegetables
+"Potatoes, pan-tried",100,268,4,14,6,0.4,33,Vegetables
+Scalloped with cheese potatoes,100,145,6,8,7,0.4,14,Vegetables
+Steamed potatoes before peeling,100,80,2,1,0,0.4,19,Vegetables
+Potato chips,20,110,1,7,4,1,10,Vegetables
+Radishes,50,10,1,0,0,0.3,2,Vegetables
+Rutabagas,100,32,1,0,0,1.4,8,Vegetables
+Soybeans,200,260,22,11,0,3.2,20,Vegetables
+Spinach,100,26,3,1,0,1,3,Vegetables
+Squash,210,35,1,1,0,0.6,8,Vegetables
+"Winter, mashed",200,95,4,1,0,2.6,23,Vegetables
+Sweet potatoes,110,155,2,1,0,1,36,Vegetables
+Candied,175,235,2,6,5,1.5,80,Vegetables
+Tomatoes,240,50,2,1,0,1,9,Vegetables
+"Raw, 2 by 2 1/2",150,30,1,1,0,0.6,6,Vegetables
+Tomato juice,240,50,2,1,0,0.6,10,Vegetables
+Tomato catsup,17,15,1,1,0,1,4,Vegetables
+Turnip greens,145,45,4,1,0,1.8,8,Vegetables
+"Turnips, steamed",155,40,1,1,0,1.8,9,Vegetables
+"Watercress stems, raw",50,9,1,1,0,0.3,1,Fruits
+Apple juice canned,250,125,1,0,0,0,34,Fruits
+Apple vinegar,100,14,1,0,0,0,3,Fruits
+"Apples, raw",130,70,1,1,0,1,18,Fruits
+Stewed or canned,240,100,1,1,0,2,26,Fruits
+Apricots,250,220,2,1,0,1,57,Fruits
+"Dried, uncooked",75,220,4,1,0,1,50,Fruits
+Fresh,114,55,1,1,0,0.7,14,Fruits
+"Nectar, or juice",250,140,1,1,0,2,36,Fruits
+Avocado,108,185,2,18,12,1.8,6,Fruits
+Banana,150,85,1,1,0,0.9,23,Fruits
+Blackberries,144,85,2,1,0,6.6,19,Fruits
+Blueberries,250,245,1,1,0,2,65,Fruits
+Cantaloupe,380,40,1,1,0,2.2,9,Fruits
+Cherries,257,100,2,1,0,2,26,Fruits
+"Fresh, raw",114,65,1,1,0,0.8,15,Fruits
+Cranberry sauce sweetened,277,530,1,1,0,1.2,142,Fruits
+Dates,178,505,4,1,0,3.6,134,Fruits
+Figs,42,120,2,1,0,1.9,30,Fruits
+"Fresh, raw figs",114,90,2,1,0,1,22,Fruits
+figs Canned with syrup ,115,130,1,1,0,1,32,Fruits
+"Fruit cocktail, canned",256,195,1,1,0,0.5,50,Fruits
+Grapefruit sections,250,170,1,1,0,0.5,44,Fruits
+"Grapefruit, fresh, 5"" diameter",285,50,1,1,1,1,14,Fruits
+Grapefruit juice,250,100,1,1,0,1,24,Fruits
+Grapes,153,70,1,1,0,0.8,16,Fruits
+"European, as Muscat, Tokay",160,100,1,1,0,0.7,26,Fruits
+Grape juice,250,160,1,1,0,1,42,Fruits
+Lemon juice,125,30,1,1,0,1,10,Fruits
+Lemonade concentratefrozen,220,430,1,1,0,1,112,Fruits
+Limeade concentrate frozen,218,405,1,1,0,1,108,Fruits
+Olives large,65,72,1,10,9,0.8,3,Fruits
+OlivesRipe,65,105,1,13,12,1,1,Fruits
+"Oranges 3"" diameter",180,60,2,1,1,1,16,Fruits
+Orange juice,250,112,2,1,0,0.2,25,Fruits
+Frozen ,210,330,2,1,1,0.4,78,Fruits
+Papaya,200,75,1,1,0,1.8,18,Fruits
+Peaches,257,200,1,1,0,1,52,Fruits
+"Fresh, raw",114,35,1,1,0,0.6,10,Fruits
+Pears,255,195,1,1,0,2,50,Fruits
+"Raw, 3 by 2V",182,100,1,1,0,2,25,Fruits
+Persimmons,125,75,1,1,0,2,20,Fruits
+Pineapple,122,95,1,1,0,0.4,26,Fruits
+Pineapple Crushed,260,205,1,1,0,0.7,55,Fruits
+"Raw, diced",140,75,1,1,1,0.6,19,Fruits
+Pineapple juice,250,120,1,1,0,0.2,32,Fruits
+Plums,256,185,1,1,0,0.7,50,Fruits
+"Raw, 2"" diameter",60,30,1,1,0,0.2,7,Fruits
+Prunes,270,300,3,1,0,0.8,81,Fruits
+Prune juice,240,170,1,1,0,0.7,45,Fruits
+Raisins,88,230,2,1,0,0.7,82,Fruits
+Raspberries,100,100,1,1,0,2,25,Fruits
+"Raw, red",100,57,1,1,0,5,14,Fruits
+Rhubarb sweetened,270,385,1,1,0,1.9,98,Fruits
+Strawberries,227,242,1,1,0,1.3,60,Fruits
+Raw,149,54,1,1,0,1.9,12,Fruits
+Tangerines,114,40,1,1,0,1,10,Fruits
+Watermelon,925,120,2,1,0,3.6,29,Fruits
+Biscuits,38,130,3,4,3,1,18,"Breads, cereals, fastfood,grains"
+Bran flakes,25,117,3,1,0,0.1,32,"Breads, cereals, fastfood,grains"
+"Bread, cracked wheat",23,60,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+Rye,23,55,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+"White, 20 slices, or",454,1225,39,15,12,9,229,"Breads, cereals, fastfood,grains"
+Whole-wheat,454,1100,48,14,10,67.5,216,"Breads, cereals, fastfood,grains"
+Whole-wheat,23,55,2,1,0,0.31,11,"Breads, cereals, fastfood,grains"
+Corn bread ground meal,50,100,3,4,2,0.3,15,"Breads, cereals, fastfood,grains"
+Cornflakes,25,110,2,1,0,0.1,25,"Breads, cereals, fastfood,grains"
+Corn grits cooked,242,120,8,1,0,0.2,27,"Breads, cereals, fastfood,grains"
+Corn meal,118,360,9,4,2,1.6,74,"Breads, cereals, fastfood,grains"
+Crackers,14,55,1,1,0,1,10,"Breads, cereals, fastfood,grains"
+"Soda, 2 1/2 square",11,45,1,1,0,1,8,"Breads, cereals, fastfood,grains"
+Farina,238,105,3,1,0,8,22,"Breads, cereals, fastfood,grains"
+Flour,110,460,39,22,0,2.9,33,"Breads, cereals, fastfood,grains"
+Wheat (all purpose),110,400,12,1,0,0.3,84,"Breads, cereals, fastfood,grains"
+Wheat (whole),120,390,13,2,0,2.8,79,"Breads, cereals, fastfood,grains"
+Macaroni,140,155,5,1,0,0.1,32,"Breads, cereals, fastfood,grains"
+Baked with cheese,220,475,18,25,24,1,44,"Breads, cereals, fastfood,grains"
+Muffins,48,135,4,5,4,1,19,"Breads, cereals, fastfood,grains"
+Noodles,160,200,7,2,2,0.1,37,"Breads, cereals, fastfood,grains"
+Oatmeal,236,150,5,3,2,4.6,26,"Breads, cereals, fastfood,grains"
+"Pancakes 4"" diam.",108,250,7,9,0,0.1,28,"Breads, cereals, fastfood,grains"
+"Wheat, pancakes 4"" diam.",108,250,7,9,0,0.1,28,"Breads, cereals, fastfood,grains"
+"Pizza 14"" diam.",75,180,8,6,5,1,23,"Breads, cereals, fastfood,grains"
+Popcorn salted,28,152,3,7,2,0.5,20,"Breads, cereals, fastfood,grains"
+Puffed rice,14,55,1,1,0,1,12,"Breads, cereals, fastfood,grains"
+Puffed wheat presweetened,28,105,1,1,0,0.6,26,"Breads, cereals, fastfood,grains"
+Rice,208,748,15,3,0,1.2,154,"Breads, cereals, fastfood,grains"
+Converted,187,677,14,1,0,0.4,142,"Breads, cereals, fastfood,grains"
+White,191,692,14,1,0,0.3,150,"Breads, cereals, fastfood,grains"
+Rice flakes,30,115,2,1,0,0.1,26,"Breads, cereals, fastfood,grains"
+Rice polish,50,132,6,6,0,1.2,28,"Breads, cereals, fastfood,grains"
+Rolls,50,411,3,12,11,0.1,23,"Breads, cereals, fastfood,grains"
+of refined flour,38,115,3,2,2,1,20,"Breads, cereals, fastfood,grains"
+whole-wheat,40,102,4,1,0,0.1,20,"Breads, cereals, fastfood,grains"
+Spaghetti with meat sauce,250,285,13,10,6,0.5,35,"Breads, cereals, fastfood,grains"
+with tomatoes and cheese,250,210,6,5,3,0.5,36,"Breads, cereals, fastfood,grains"
+Spanish rice,250,217,4,4,0,1.2,40,"Breads, cereals, fastfood,grains"
+Shredded wheat biscuit,28,100,3,1,0,0.7,23,"Breads, cereals, fastfood,grains"
+Waffles,75,240,8,9,1,0.1,30,"Breads, cereals, fastfood,grains"
+Wheat germ,68,245,17,7,3,2.5,34,"Breads, cereals, fastfood,grains"
+Wheat-germ cereal toasted,65,260,20,7,3,2.5,36,"Breads, cereals, fastfood,grains"
+Wheat meal cereal unrefined,30,103,4,1,0,0.7,25,"Breads, cereals, fastfood,grains"
+"Wheat, cooked",200,275,12,1,0,4.4,35,"Breads, cereals, fastfood,grains"
+Bean soups,250,190,8,5,4,0.6,30,Soups
+Beef soup,250,100,6,4,4,0.5,11,Soups
+Bouillon,240,24,5,0,0,0,0,Soups
+chicken soup,250,75,4,2,2,0,10,Soups
+Clam chowder,255,85,5,2,8,0.5,12,Soups
+Cream soups,255,200,7,12,11,1.2,18,Soups
+Noodle,250,115,6,4,3,0.2,13,Soups
+Split-pea soup,250,147,8,3,3,0.5,25,Soups
+Tomato soup,245,175,6,7,6,0.5,22,Soups
+Vegetable,250,80,4,2,2,0,14,Soups
+Apple betty,100,150,1,4,0,0.5,29,"Desserts, sweets"
+Bread pudding,200,374,11,12,11,0.2,56,"Desserts, sweets"
+Cakes,40,110,3,1,0,0,23,"Desserts, sweets"
+Chocolate fudge,120,420,5,14,12,0.3,70,"Desserts, sweets"
+Cupcake,50,160,3,3,2,1,31,"Desserts, sweets"
+Fruit cake,30,105,2,4,3,0.2,17,"Desserts, sweets"
+Gingerbread,55,180,2,7,6,1,28,"Desserts, sweets"
+"Plain, with no icing",55,180,4,5,4,1,31,"Desserts, sweets"
+Sponge cake,40,115,3,2,2,0,22,"Desserts, sweets"
+Candy,25,104,1,3,3,0,19,"Desserts, sweets"
+Chocolate creams,30,130,1,4,4,0,24,"Desserts, sweets"
+Fudge,90,370,1,12,11,0.1,80,"Desserts, sweets"
+Hard candies,28,90,1,0,0,0,28,"Desserts, sweets"
+Marshmallows,30,98,1,0,0,0,23,"Desserts, sweets"
+Milk chocolate,56,290,2,6,6,0.2,44,"Desserts, sweets"
+Chocolate syrup,40,80,1,1,1,0,22,"Desserts, sweets"
+Doughnuts,33,135,2,7,4,1,17,"Desserts, sweets"
+"Gelatin, made with water",239,155,4,1,1,0,36,"Desserts, sweets"
+Honey,42,120,1,0,0,0,30,"Jams, Jellies"
+Ice cream,300,250,0,0,12,10,0,"Desserts, sweets"
+Ices,150,117,0,0,0,0,48,"Desserts, sweets"
+preserves,20,55,0,0,0,1,14,"Jams, Jellies"
+Jellies,20,50,0,0,0,0,13,"Jams, Jellies"
+Molasses,20,45,0,0,0,8,11,"Jams, Jellies"
+Cane Syrup,20,50,0,0,0,0,13,"Jams, Jellies"
+"9"" diam. pie",135,330,3,13,11,0.1,53,"Desserts, sweets"
+Cherry Pie,135,340,3,13,11,0.1,55,"Desserts, sweets"
+Custard,130,265,7,11,10,0,34,"Desserts, sweets"
+Lemon meringue,120,300,4,12,10,0.1,45,"Desserts, sweets"
+Mince,135,340,3,9,8,0.7,62,"Desserts, sweets"
+Pumpkin Pie,130,265,5,12,11,8,34,"Desserts, sweets"
+Puddings Sugar,200,770,0,0,0,0,199,"Desserts, sweets"
+3 teaspoons sugar,12,50,0,0,0,0,12,"Desserts, sweets"
+"Brown, firm-packed, dark sugar",220,815,0,1,0,0,210,"Jams, Jellies"
+Syrup,40,100,0,0,0,0,25,"Jams, Jellies"
+table blends sugar,40,110,0,0,0,0,29,"Jams, Jellies"
+Tapioca cream pudding,250,335,10,10,9,0,42,"Desserts, sweets"
+Almonds,70,425,13,38,28,1.8,13,Seeds and Nuts
+roasted and salted,70,439,13,40,31,1.8,13,Seeds and Nuts
+Brazil nuts,70,457,10,47,31,2,7,Seeds and Nuts
+Cashews,70,392,12,32,28,0.9,20,Seeds and Nuts
+coconut sweetened,50,274,1,20,19,2,26,Seeds and Nuts
+Peanut butter,50,300,12,25,17,0.9,9,Seeds and Nuts
+"Peanut butter, natural",50,284,13,24,10,0.9,8,Seeds and Nuts
+Peanuts,50,290,13,25,16,1.2,9,Seeds and Nuts
+Pecans,52,343,5,35,25,1.1,7,Seeds and Nuts
+Sesame seeds,50,280,9,24,13,3.1,10,Seeds and Nuts
+Sunflower seeds,50,280,12,26,7,1.9,10,Seeds and Nuts
+Walnuts,50,325,7,32,7,1,8,Seeds and Nuts
+Beer,480,228,1,0,0,0,8,"Drinks,Alcohol, Beverages"
+Gin,28,70,0,0,0,0,1,"Drinks,Alcohol, Beverages"
+Wines,120,164,1,0,0,0,9,"Drinks,Alcohol, Beverages"
+Table (12.2% alcohol),120,100,1,0,0,0,5,"Drinks,Alcohol, Beverages"
+Carbonated drinks Artificially sweetened,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages"
+Club soda,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages"
+Cola drinks,346,137,0,0,0,0,38,"Drinks,Alcohol, Beverages"
+Fruit-flavored soda,346,161,0,0,0,0,42,"Drinks,Alcohol, Beverages"
+Ginger ale,346,105,0,0,0,0,28,"Drinks,Alcohol, Beverages"
+Root beer,346,140,0,0,0,0,35,"Drinks,Alcohol, Beverages"
+Coffee,230,3,1,0,0,0,1,"Drinks,Alcohol, Beverages"
+Tea,230,4,0,1,0,0,1,"Drinks,Alcohol, Beverages"
